@@ -1,0 +1,658 @@
+column1,Customer_City,Customer_Country,Customer_Email,Customer_Fname,Customer_Id,Customer_Lname,Customer_Password,Customer_Segment,Customer_State,Customer_Street,Customer_Zipcode
+18673,Tonawanda,EE. UU.,XXXXXXXXX,Shellie,18406,Clarke,XXXXXXXXX,Consumer,NY,1942 Middle Bluff Crescent,14150
+18676,New York,EE. UU.,XXXXXXXXX,Uta,18709,Rose,XXXXXXXXX,Consumer,NY,2455 Stony Fox Crossing,10027
+18683,Yonkers,EE. UU.,XXXXXXXXX,Bo,18985,Sellers,XXXXXXXXX,Consumer,NY,3152 Wishing Pointe,10701
+18692,New York,EE. UU.,XXXXXXXXX,Gwendolyn,19222,Lara,XXXXXXXXX,Consumer,NY,4208 Harvest Grounds,10024
+18693,Brooklyn,EE. UU.,XXXXXXXXX,Xerxes,16400,Webster,XXXXXXXXX,Consumer,NY,2541 Merry Fawn Via,11238
+18728,New York,EE. UU.,XXXXXXXXX,Mary,18289,Dickerson,XXXXXXXXX,Consumer,NY,5351 Blue Treasure Square,10025
+18734,Bronx,EE. UU.,XXXXXXXXX,Lana,20393,Lynn,XXXXXXXXX,Consumer,NY,3760 Rocky Village,10463
+18738,New York,EE. UU.,XXXXXXXXX,Erica,15321,Sanford,XXXXXXXXX,Consumer,NY,8355 Lazy Anchor Pines,10002
+15822,New York,EE. UU.,XXXXXXXXX,Rebecca,6843,Smith,XXXXXXXXX,Consumer,NY,2033 Thunder Ledge,10040
+15823,Brooklyn,EE. UU.,XXXXXXXXX,Andrea,8054,Smith,XXXXXXXXX,Consumer,NY,3684 Silent Hickory Route,11229
+15841,Jackson Heights,EE. UU.,XXXXXXXXX,Shea,13453,Hopkins,XXXXXXXXX,Consumer,NY,5079 Umber Cloud Boulevard,11372
+15845,Massapequa,EE. UU.,XXXXXXXXX,Alice,14236,Barker,XXXXXXXXX,Consumer,NY,2929 Green Grove Corner,11758
+15872,New York,EE. UU.,XXXXXXXXX,Laura,14105,Gilmore,XXXXXXXXX,Consumer,NY,5332 Heather Hills Isle,10009
+15890,Brooklyn,EE. UU.,XXXXXXXXX,Oprah,14455,Cohen,XXXXXXXXX,Consumer,NY,9044 Wishing Court,11236
+15892,Freeport,EE. UU.,XXXXXXXXX,Jana,14226,Lawson,XXXXXXXXX,Consumer,NY,8808 Indian Autoroute,11520
+15932,New York,EE. UU.,XXXXXXXXX,Susan,13925,Cruz,XXXXXXXXX,Consumer,NY,9437 Middle Beacon Place,10003
+15933,Brooklyn,EE. UU.,XXXXXXXXX,Kaye,13583,Carpenter,XXXXXXXXX,Consumer,NY,521 Fallen Lagoon Glade,11235
+15988,Jamaica,EE. UU.,XXXXXXXXX,Roger,9525,Gray,XXXXXXXXX,Consumer,NY,603 Hazy Elk Avenue,11435
+15992,Brooklyn,EE. UU.,XXXXXXXXX,Felicia,12498,Green,XXXXXXXXX,Consumer,NY,2659 Jagged Rabbit View,11223
+15993,Brooklyn,EE. UU.,XXXXXXXXX,Azalia,12714,Boyle,XXXXXXXXX,Consumer,NY,"6391 Sleepy Gardens ",11214
+16003,Brooklyn,EE. UU.,XXXXXXXXX,Blair,15123,Stanton,XXXXXXXXX,Consumer,NY,3914 Silver Horse Cape,11226
+16005,Buffalo,EE. UU.,XXXXXXXXX,Reagan,14959,Raymond,XXXXXXXXX,Consumer,NY,7502 Foggy Lookout,14221
+16007,Brooklyn,EE. UU.,XXXXXXXXX,Indigo,14975,Cotton,XXXXXXXXX,Consumer,NY,4805 Lost Berry Forest,11214
+16018,Brooklyn,EE. UU.,XXXXXXXXX,Tamara,12893,Chapman,XXXXXXXXX,Consumer,NY,"9274 Misty Hollow ",11230
+16024,New York,EE. UU.,XXXXXXXXX,Lilah,12853,Pierce,XXXXXXXXX,Consumer,NY,"1690 Dusty Mount ",10024
+16027,New York,EE. UU.,XXXXXXXXX,Maggie,13400,Singleton,XXXXXXXXX,Consumer,NY,7505 Silent Spring Acres,10027
+16049,Troy,EE. UU.,XXXXXXXXX,Betty,3662,Collier,XXXXXXXXX,Consumer,NY,8248 Blue Corners,12180
+16052,Bronx,EE. UU.,XXXXXXXXX,Madison,12580,Peterson,XXXXXXXXX,Consumer,NY,"8289 Stony Thicket ",10462
+16065,Buffalo,EE. UU.,XXXXXXXXX,Mary,3183,Butler,XXXXXXXXX,Consumer,NY,7639 Silent Valley,14221
+16073,Brooklyn,EE. UU.,XXXXXXXXX,Mary,278,Graves,XXXXXXXXX,Consumer,NY,6391 Sleepy Gardens,11214
+10549,Rochester,EE. UU.,XXXXXXXXX,Mary,5686,James,XXXXXXXXX,Consumer,NY,771 Misty Alley,14609
+10562,Bronx,EE. UU.,XXXXXXXXX,Hillary,16073,Burks,XXXXXXXXX,Consumer,NY,7446 Rocky Lookout,10460
+10567,Jackson Heights,EE. UU.,XXXXXXXXX,Chantale,17992,Carpenter,XXXXXXXXX,Consumer,NY,3257 Sleepy View Downs,11372
+10576,New York,EE. UU.,XXXXXXXXX,Angela,18294,Chaney,XXXXXXXXX,Consumer,NY,8866 Cotton Timber Meadow,10011
+10582,South Richmond Hill,EE. UU.,XXXXXXXXX,Renee,17641,Erickson,XXXXXXXXX,Consumer,NY,89 Fallen Mount,11419
+10585,Webster,EE. UU.,XXXXXXXXX,Breanna,17353,Hardin,XXXXXXXXX,Consumer,NY,2959 Old Blossom Farms,14580
+10587,New York,EE. UU.,XXXXXXXXX,Sheila,17915,Phelps,XXXXXXXXX,Consumer,NY,8355 Lazy Anchor Pines,10002
+10601,New York,EE. UU.,XXXXXXXXX,Maria,4660,Higgins,XXXXXXXXX,Consumer,NY,1407 Crystal Campus,10003
+10619,New York,EE. UU.,XXXXXXXXX,Jaquelyn,15635,Dudley,XXXXXXXXX,Consumer,NY,4365 Silver Bay,10031
+10628,Endicott,EE. UU.,XXXXXXXXX,Mary,6701,Carter,XXXXXXXXX,Consumer,NY,"8279 Crystal Panda Mall ",13760
+10631,Brooklyn,EE. UU.,XXXXXXXXX,Ann,10712,Rose,XXXXXXXXX,Consumer,NY,8081 Cozy Edge,11230
+10652,Brooklyn,EE. UU.,XXXXXXXXX,Idola,18925,Oneil,XXXXXXXXX,Consumer,NY,2410 Umber Woods,11208
+10655,Spring Valley,EE. UU.,XXXXXXXXX,Robin,15153,Schultz,XXXXXXXXX,Consumer,NY,3238 Pleasant Leaf Thicket,10977
+10714,Brooklyn,EE. UU.,XXXXXXXXX,Sharon,12243,Price,XXXXXXXXX,Consumer,NY,7502 Foggy Lookout,11201
+10735,New York,EE. UU.,XXXXXXXXX,Denise,5837,Coffey,XXXXXXXXX,Consumer,NY,8059 Cozy Anchor Ramp,10027
+10736,South Richmond Hill,EE. UU.,XXXXXXXXX,Daniel,6367,Smith,XXXXXXXXX,Consumer,NY,92 Sleepy Nook,11419
+10743,Staten Island,EE. UU.,XXXXXXXXX,David,7102,Bradley,XXXXXXXXX,Consumer,NY,6254 Silent Heath,10314
+10765,New York,EE. UU.,XXXXXXXXX,David,7617,Smith,XXXXXXXXX,Consumer,NY,7380 Hazy Timber Expressway,10128
+10769,Brooklyn,EE. UU.,XXXXXXXXX,Mary,3895,Contreras,XXXXXXXXX,Consumer,NY,2410 Umber Woods,11208
+10776,New York,EE. UU.,XXXXXXXXX,Mary,4192,Figueroa,XXXXXXXXX,Consumer,NY,4208 Harvest Grounds,10024
+10785,Tonawanda,EE. UU.,XXXXXXXXX,Theresa,2847,Mays,XXXXXXXXX,Consumer,NY,473 Harvest Row,14150
+10787,New York,EE. UU.,XXXXXXXXX,Samuel,9653,Thomas,XXXXXXXXX,Consumer,NY,1965 Shady Robin Townline,10029
+10793,Buffalo,EE. UU.,XXXXXXXXX,Pearl,14271,Strong,XXXXXXXXX,Consumer,NY,8382 Rustic Branch Dale,14221
+10798,Brooklyn,EE. UU.,XXXXXXXXX,Leigh,13177,Garcia,XXXXXXXXX,Consumer,NY,"7894 Heather Gardens ",11211
+10813,Brooklyn,EE. UU.,XXXXXXXXX,Rose,4386,Foster,XXXXXXXXX,Consumer,NY,2636 Indian Expressway,11212
+10825,Brooklyn,EE. UU.,XXXXXXXXX,Theresa,8395,Smith,XXXXXXXXX,Consumer,NY,264 Tawny Landing,11233
+10833,Bronx,EE. UU.,XXXXXXXXX,Maria,9584,Rowe,XXXXXXXXX,Consumer,NY,9495 Grand Diversion,10473
+10843,Brooklyn,EE. UU.,XXXXXXXXX,Iris,14919,Douglas,XXXXXXXXX,Consumer,NY,6909 Shady Sky Park,11224
+10857,New York,EE. UU.,XXXXXXXXX,Robert,4289,Smith,XXXXXXXXX,Consumer,NY,3309 Merry Falls,10040
+10867,Brooklyn,EE. UU.,XXXXXXXXX,Julie,10645,Mays,XXXXXXXXX,Consumer,NY,7829 Easy Estates,11204
+5,Tonawanda,EE. UU.,XXXXXXXXX,Kimberly,19488,Flowers,XXXXXXXXX,Consumer,NY,2122 Hazy Corner,14150
+11,Freeport,EE. UU.,XXXXXXXXX,Freya,19482,Robbins,XXXXXXXXX,Consumer,NY,3243 Shady Corner,11520
+172,Freeport,EE. UU.,XXXXXXXXX,Patricia,1509,Petersen,XXXXXXXXX,Consumer,NY,3675 Emerald Goose Bank,11520
+175,Corona,EE. UU.,XXXXXXXXX,Tyler,9174,Smith,XXXXXXXXX,Consumer,NY,9414 Thunder Island Court,11368
+184,Rome,EE. UU.,XXXXXXXXX,Melissa,6246,Ramirez,XXXXXXXXX,Consumer,NY,2459 Round Spring Towers,13440
+191,Buffalo,EE. UU.,XXXXXXXXX,Mary,4717,Sanders,XXXXXXXXX,Consumer,NY,4903 Lazy Parkway,14221
+194,North Tonawanda,EE. UU.,XXXXXXXXX,Joyce,12383,Phillips,XXXXXXXXX,Consumer,NY,9899 Hazy Falls,14120
+196,Jamaica,EE. UU.,XXXXXXXXX,Mary,4674,Lynn,XXXXXXXXX,Consumer,NY,7694 Velvet Turnabout,11434
+210,Bronx,EE. UU.,XXXXXXXXX,Larry,1758,King,XXXXXXXXX,Consumer,NY,2515 Burning Boulevard,10466
+262,Lockport,EE. UU.,XXXXXXXXX,Emma,3441,Russell,XXXXXXXXX,Consumer,NY,8400 Clear Wagon  Row,14094
+264,Staten Island,EE. UU.,XXXXXXXXX,Adam,1555,Smith,XXXXXXXXX,Consumer,NY,4047 Grand Port,10314
+268,Bronx,EE. UU.,XXXXXXXXX,Sarah,8544,Smith,XXXXXXXXX,Consumer,NY,3065 Foggy Horse Port,10458
+269,Webster,EE. UU.,XXXXXXXXX,Edward,4296,Sanchez,XXXXXXXXX,Consumer,NY,3867 Middle Leaf By-pass,14580
+284,North Tonawanda,EE. UU.,XXXXXXXXX,Joseph,5505,Matthews,XXXXXXXXX,Consumer,NY,3046 Broad Sky Dale,14120
+295,Bronx,EE. UU.,XXXXXXXXX,Mary,11011,Mullins,XXXXXXXXX,Consumer,NY,3193 Gentle Circuit,10457
+5275,Staten Island,EE. UU.,XXXXXXXXX,Mary,11727,Cowan,XXXXXXXXX,Consumer,NY,3323 Rocky Robin Pointe,10312
+5283,Flushing,EE. UU.,XXXXXXXXX,Judith,7354,Smith,XXXXXXXXX,Consumer,NY,586 Rocky Branch Ramp,11354
+5298,Tonawanda,EE. UU.,XXXXXXXXX,Rose,3376,Cannon,XXXXXXXXX,Consumer,NY,1942 Middle Bluff Crescent,14150
+5300,New York,EE. UU.,XXXXXXXXX,Ashley,8725,Smith,XXXXXXXXX,Consumer,NY,5959 Harvest Forest Boulevard,10003
+5324,New York,EE. UU.,XXXXXXXXX,Mary,3679,Carpenter,XXXXXXXXX,Consumer,NY,2455 Stony Fox Crossing,10027
+5328,Brooklyn,EE. UU.,XXXXXXXXX,Mary,3772,Smith,XXXXXXXXX,Consumer,NY,283 Honey Goose Crescent,11229
+5334,New York,EE. UU.,XXXXXXXXX,Amy,3855,Smith,XXXXXXXXX,Consumer,NY,6502 Red Point,10023
+5354,New York,EE. UU.,XXXXXXXXX,Gregory,11312,Trujillo,XXXXXXXXX,Consumer,NY,3206 Noble Treasure Field,10128
+5367,Lockport,EE. UU.,XXXXXXXXX,Barbara,4229,Smith,XXXXXXXXX,Consumer,NY,2805 Crystal Moor,14094
+5379,Lindenhurst,EE. UU.,XXXXXXXXX,Mary,2642,Gould,XXXXXXXXX,Consumer,NY,1812 Sunny River Wharf,11757
+5404,Astoria,EE. UU.,XXXXXXXXX,Mary,5046,Smith,XXXXXXXXX,Consumer,NY,7191 Sunny Loop,11103
+5409,Flushing,EE. UU.,XXXXXXXXX,Gloria,12186,Mcknight,XXXXXXXXX,Consumer,NY,9780 Misty Pike,11355
+5410,New York,EE. UU.,XXXXXXXXX,Robert,1489,Smith,XXXXXXXXX,Consumer,NY,9437 Middle Beacon Place,10003
+5411,Forest Hills,EE. UU.,XXXXXXXXX,Mary,10378,Bradley,XXXXXXXXX,Consumer,NY,9800 Lazy Fox Isle,11375
+5425,Bronx,EE. UU.,XXXXXXXXX,Ivory,13248,Curry,XXXXXXXXX,Consumer,NY,"444 Grand Corner ",10462
+5433,Bronx,EE. UU.,XXXXXXXXX,Melissa,13277,Roberts,XXXXXXXXX,Consumer,NY,"3760 Rocky Village ",10463
+5435,Rego Park,EE. UU.,XXXXXXXXX,Denise,11684,Smith,XXXXXXXXX,Consumer,NY,2930 Cotton Limits,11374
+5445,Brooklyn,EE. UU.,XXXXXXXXX,Mary,5502,Fritz,XXXXXXXXX,Consumer,NY,2867 Iron Avenue,11226
+5454,Brooklyn,EE. UU.,XXXXXXXXX,Eric,8285,Smith,XXXXXXXXX,Consumer,NY,5485 Sleepy Hollow,11219
+5467,Bronx,EE. UU.,XXXXXXXXX,Mary,7800,Sandoval,XXXXXXXXX,Consumer,NY,1763 Crystal Valley,10463
+5478,Bronx,EE. UU.,XXXXXXXXX,Cherokee,14811,Martinez,XXXXXXXXX,Consumer,NY,5990 Hazy Glade,10467
+5480,Brooklyn,EE. UU.,XXXXXXXXX,Judy,1147,Smith,XXXXXXXXX,Consumer,NY,521 Fallen Lagoon Glade,11235
+5482,Bronx,EE. UU.,XXXXXXXXX,Alice,2711,Rodriguez,XXXXXXXXX,Consumer,NY,2734 Dusty Blossom Road,10460
+5492,Bronx,EE. UU.,XXXXXXXXX,Robert,4922,Russo,XXXXXXXXX,Consumer,NY,9843 Indian Passage,10466
+5502,Staten Island,EE. UU.,XXXXXXXXX,Mary,1643,Carr,XXXXXXXXX,Consumer,NY,3796 Rustic Autoroute,10306
+13185,Brooklyn,EE. UU.,XXXXXXXXX,Aubrey,19593,Oneill,XXXXXXXXX,Consumer,NY,7869 Crystal View Villas,11230
+13232,Brooklyn,EE. UU.,XXXXXXXXX,Sarah,19546,Shields,XXXXXXXXX,Consumer,NY,4046 Round Wharf,11209
+13278,Brooklyn,EE. UU.,XXXXXXXXX,Daryl,19500,Webster,XXXXXXXXX,Consumer,NY,9188 Rocky Vale,11219
+13327,Rome,EE. UU.,XXXXXXXXX,Avye,16986,Barron,XXXXXXXXX,Consumer,NY,5514 Lost Walk,13440
+13361,Brooklyn,EE. UU.,XXXXXXXXX,Nevada,16952,Vang,XXXXXXXXX,Consumer,NY,4046 Round Wharf,11209
+13386,Elmhurst,EE. UU.,XXXXXXXXX,Haley,16927,Blanchard,XXXXXXXXX,Consumer,NY,3310 Rocky Boulevard,11373
+13425,Freeport,EE. UU.,XXXXXXXXX,Kaitlin,16888,Preston,XXXXXXXXX,Consumer,NY,3243 Shady Corner,11520
+18761,Brooklyn,EE. UU.,XXXXXXXXX,Wynter,17150,Shannon,XXXXXXXXX,Consumer,NY,23 Old Corners,11214
+18788,Buffalo,EE. UU.,XXXXXXXXX,Renee,18213,Simpson,XXXXXXXXX,Consumer,NY,7639 Silent Valley,14221
+18803,Brooklyn,EE. UU.,XXXXXXXXX,Blossom,16058,Oneal,XXXXXXXXX,Consumer,NY,8609 Rustic Grounds,11204
+18811,Bronx,EE. UU.,XXXXXXXXX,Stacy,17412,Massey,XXXXXXXXX,Consumer,NY,7773 Merry Autoroute,10463
+18819,Bronx,EE. UU.,XXXXXXXXX,Yetta,17405,Frazier,XXXXXXXXX,Consumer,NY,5990 Hazy Glade,10467
+18838,Rego Park,EE. UU.,XXXXXXXXX,Ariana,15639,Vazquez,XXXXXXXXX,Consumer,NY,4916 Honey Highlands,11374
+18839,Brooklyn,EE. UU.,XXXXXXXXX,Blossom,15674,Ferguson,XXXXXXXXX,Consumer,NY,9009 Umber Log Island,11226
+18847,Rochester,EE. UU.,XXXXXXXXX,Irma,18575,Best,XXXXXXXXX,Consumer,NY,8153 Indian Beacon Impasse,14609
+18889,Bronx,EE. UU.,XXXXXXXXX,Ainsley,16502,Cherry,XXXXXXXXX,Consumer,NY,6283 Dusty Rise,10473
+18890,Bronx,EE. UU.,XXXXXXXXX,Ivy,16435,Cantu,XXXXXXXXX,Consumer,NY,4715 Harvest Creek Mews,10472
+18905,Brooklyn,EE. UU.,XXXXXXXXX,Mary,1526,Smith,XXXXXXXXX,Consumer,NY,4167 Little Thicket,11223
+7921,Huntington Station,EE. UU.,XXXXXXXXX,Barbara,5617,Smith,XXXXXXXXX,Consumer,NY,3829 Gentle Beacon Meadow,11746
+7925,Staten Island,EE. UU.,XXXXXXXXX,Frank,8025,Foster,XXXXXXXXX,Consumer,NY,7780 Cozy Pond Court,10314
+7927,Rego Park,EE. UU.,XXXXXXXXX,Mary,3002,Carter,XXXXXXXXX,Consumer,NY,7353 Round Spring Chase,11374
+7928,New York,EE. UU.,XXXXXXXXX,Ruth,3582,Smith,XXXXXXXXX,Consumer,NY,5860 Grand Limits,10027
+7941,New York,EE. UU.,XXXXXXXXX,Alexander,6903,Moore,XXXXXXXXX,Consumer,NY,2210 Merry Leaf Row,10021
+7953,Bronx,EE. UU.,XXXXXXXXX,Patricia,535,Hunt,XXXXXXXXX,Consumer,NY,6030 Honey Pond Thicket,10453
+7956,Jackson Heights,EE. UU.,XXXXXXXXX,Mary,6391,Smith,XXXXXXXXX,Consumer,NY,3064 Thunder Centre,11372
+7995,North Tonawanda,EE. UU.,XXXXXXXXX,Aileen,15642,Rodriguez,XXXXXXXXX,Consumer,NY,3601 Foggy Timber Gate,14120
+7996,Brooklyn,EE. UU.,XXXXXXXXX,James,11683,Guzman,XXXXXXXXX,Consumer,NY,3169 Shady Close,11206
+3059,New York,EE. UU.,XXXXXXXXX,Elizabeth,7636,Smith,XXXXXXXXX,Consumer,NY,9293 Tawny Terrace,10031
+3064,Brooklyn,EE. UU.,XXXXXXXXX,Jordan,12426,Valdez,XXXXXXXXX,Consumer,NY,5561 Quiet Loop,11210
+3068,Endicott,EE. UU.,XXXXXXXXX,Victoria,3529,Weaver,XXXXXXXXX,Consumer,NY,2503 Easy Path,13760
+3076,Troy,EE. UU.,XXXXXXXXX,Anna,9017,Kelly,XXXXXXXXX,Consumer,NY,4563 Silver Rabbit Island,12180
+3077,Ridgewood,EE. UU.,XXXXXXXXX,Hannah,7712,Smith,XXXXXXXXX,Consumer,NY,4502 Hazy Run,11385
+3080,New York,EE. UU.,XXXXXXXXX,Mary,5983,Anderson,XXXXXXXXX,Consumer,NY,2737 Pleasant Parade,10031
+3086,Brooklyn,EE. UU.,XXXXXXXXX,Kelly,2687,Smith,XXXXXXXXX,Consumer,NY,3914 Silver Horse Cape,11226
+3091,Brooklyn,EE. UU.,XXXXXXXXX,Robert,8005,Lambert,XXXXXXXXX,Consumer,NY,1546 Cinder Autumn Cape,11230
+3100,Ithaca,EE. UU.,XXXXXXXXX,Nicole,10481,Baker,XXXXXXXXX,Consumer,NY,4089 Tawny Prairie Thicket,14850
+3103,Huntington Station,EE. UU.,XXXXXXXXX,Frances,1048,Terrell,XXXXXXXXX,Consumer,NY,5989 Misty Timber Concession,11746
+3104,Brooklyn,EE. UU.,XXXXXXXXX,Nicole,11277,Gordon,XXXXXXXXX,Consumer,NY,797 Middle Jetty,11229
+3118,New York,EE. UU.,XXXXXXXXX,Mary,11211,Yu,XXXXXXXXX,Consumer,NY,8668 Shady Panda Expressway,10032
+3132,South Richmond Hill,EE. UU.,XXXXXXXXX,Nicholas,2611,Hood,XXXXXXXXX,Consumer,NY,89 Fallen Mount,11419
+3149,New York,EE. UU.,XXXXXXXXX,Tyler,827,Smith,XXXXXXXXX,Consumer,NY,5505 Grand Cloud Farm,10031
+3162,Rome,EE. UU.,XXXXXXXXX,Bobby,10194,Walker,XXXXXXXXX,Consumer,NY,4174 Pleasant Mountain Acres,13440
+3169,Forest Hills,EE. UU.,XXXXXXXXX,Kathleen,3201,Smith,XXXXXXXXX,Consumer,NY,9117 Rustic Beach,11375
+3178,Brooklyn,EE. UU.,XXXXXXXXX,Andrew,3813,Smith,XXXXXXXXX,Consumer,NY,1829 Jagged Gate Forest,11201
+3183,Bronx,EE. UU.,XXXXXXXXX,Olivia,1407,White,XXXXXXXXX,Consumer,NY,4271 Hazy Close,10452
+3195,Brooklyn,EE. UU.,XXXXXXXXX,Mary,4090,Middleton,XXXXXXXXX,Consumer,NY,7894 Misty Dale,11210
+3200,Bronx,EE. UU.,XXXXXXXXX,Stephanie,3873,Hunter,XXXXXXXXX,Consumer,NY,8212 Sleepy Parkway,10463
+3213,Bronx,EE. UU.,XXXXXXXXX,Steven,4529,Morgan,XXXXXXXXX,Consumer,NY,7518 Noble Parkway,10467
+3224,Buffalo,EE. UU.,XXXXXXXXX,Mary,4846,Lambert,XXXXXXXXX,Consumer,NY,1399 Dewy Expressway,14215
+3234,New York,EE. UU.,XXXXXXXXX,Adam,3319,Prince,XXXXXXXXX,Consumer,NY,2275 Rustic Impasse,10016
+3236,Brooklyn,EE. UU.,XXXXXXXXX,Kathleen,5989,Becker,XXXXXXXXX,Consumer,NY,7236 Middle Gardens,11235
+3239,Levittown,EE. UU.,XXXXXXXXX,Mary,10589,Smith,XXXXXXXXX,Consumer,NY,7676 Quaking Run,11756
+3247,Rego Park,EE. UU.,XXXXXXXXX,Mary,9179,Pearson,XXXXXXXXX,Consumer,NY,1109 Heather Rise,11374
+3282,Buffalo,EE. UU.,XXXXXXXXX,Mary,4568,Hodge,XXXXXXXXX,Consumer,NY,7651 Round Path,14215
+16332,Brooklyn,EE. UU.,XXXXXXXXX,Meredith,12577,Hobbs,XXXXXXXXX,Consumer,NY,1526 Broad Mountain Plaza,11203
+16338,Lindenhurst,EE. UU.,XXXXXXXXX,Mikayla,12620,Burt,XXXXXXXXX,Consumer,NY,3594 Thunder Zephyr Bank,11757
+16361,Bronx,EE. UU.,XXXXXXXXX,Mary,3279,Wells,XXXXXXXXX,Consumer,NY,5079 Velvet Hickory By-pass,10468
+16372,Lockport,EE. UU.,XXXXXXXXX,Melinda,18471,Williams,XXXXXXXXX,Consumer,NY,8400 Clear Wagon Row,14094
+16385,Freeport,EE. UU.,XXXXXXXXX,Mari,18154,Herman,XXXXXXXXX,Consumer,NY,3482 Indian Pony Towers,11520
+16387,Massapequa,EE. UU.,XXXXXXXXX,Lilah,18171,Michael,XXXXXXXXX,Consumer,NY,3470 Clear Estates,11758
+16389,New York,EE. UU.,XXXXXXXXX,Alexis,18169,Morse,XXXXXXXXX,Consumer,NY,89 Velvet Woods,10016
+16390,Spring Valley,EE. UU.,XXXXXXXXX,Lilah,18133,Lucas,XXXXXXXXX,Consumer,NY,1213 Cotton Pike,10977
+16396,Rego Park,EE. UU.,XXXXXXXXX,Amela,18233,Dorsey,XXXXXXXXX,Consumer,NY,4916 Honey Highlands,11374
+16400,Brooklyn,EE. UU.,XXXXXXXXX,Fatima,16588,Stanley,XXXXXXXXX,Consumer,NY,4644 Honey Pond Quay,11234
+16408,Brooklyn,EE. UU.,XXXXXXXXX,Martha,19182,Gamble,XXXXXXXXX,Consumer,NY,4644 Honey Pond Quay,11234
+16418,Bronx,EE. UU.,XXXXXXXXX,Doris,15735,Rivas,XXXXXXXXX,Consumer,NY,8284 Fallen Heath,10472
+16427,Bronx,EE. UU.,XXXXXXXXX,Sacha,15721,Bentley,XXXXXXXXX,Consumer,NY,1980 Wishing Vale,10472
+16443,Brooklyn,EE. UU.,XXXXXXXXX,Avye,17468,Holloway,XXXXXXXXX,Consumer,NY,1208 Dewy Pine Pathway,11221
+16445,Bay Shore,EE. UU.,XXXXXXXXX,Destiny,18514,Lynch,XXXXXXXXX,Consumer,NY,67 Cotton Mountain Terrace,11706
+16449,New York,EE. UU.,XXXXXXXXX,Kirby,16018,Pitts,XXXXXXXXX,Consumer,NY,5860 Grand Limits,10027
+10884,Brooklyn,EE. UU.,XXXXXXXXX,Cora,14502,Ramos,XXXXXXXXX,Consumer,NY,9406 Middle Cider Crest,11229
+10887,Buffalo,EE. UU.,XXXXXXXXX,Pandora,14154,Cole,XXXXXXXXX,Consumer,NY,4606 Umber Range,14221
+10894,Far Rockaway,EE. UU.,XXXXXXXXX,James,5248,Smith,XXXXXXXXX,Consumer,NY,6269 Silver Bluff Alley,11691
+10898,Brooklyn,EE. UU.,XXXXXXXXX,Timothy,7736,Smith,XXXXXXXXX,Consumer,NY,6217 Rustic Lake Forest,11219
+10901,Lindenhurst,EE. UU.,XXXXXXXXX,Catherine,2338,Stephenson,XXXXXXXXX,Consumer,NY,273 Velvet Anchor Pines,11757
+10902,Tonawanda,EE. UU.,XXXXXXXXX,Emma,2901,Davis,XXXXXXXXX,Consumer,NY,6829 Umber Isle,14150
+10920,Brooklyn,EE. UU.,XXXXXXXXX,Sopoline,14556,Harrington,XXXXXXXXX,Consumer,NY,23 Old Corners,11214
+10924,Jamaica,EE. UU.,XXXXXXXXX,Leigh,14163,Sharp,XXXXXXXXX,Consumer,NY,7208 Misty By-pass,11434
+10925,Rome,EE. UU.,XXXXXXXXX,Hyacinth,14288,Vazquez,XXXXXXXXX,Consumer,NY,1236 Stony Apple Corners,13440
+10930,Huntington Station,EE. UU.,XXXXXXXXX,Chloe,13481,Marks,XXXXXXXXX,Consumer,NY,432 Dusty Glen,11746
+10958,Brooklyn,EE. UU.,XXXXXXXXX,Mary,133,Lopez,XXXXXXXXX,Consumer,NY,948 Thunder Gate Beach,11219
+10960,Endicott,EE. UU.,XXXXXXXXX,Amity,14726,Lopez,XXXXXXXXX,Consumer,NY,3927 Indian Village,13760
+10970,Staten Island,EE. UU.,XXXXXXXXX,Signe,13991,Levine,XXXXXXXXX,Consumer,NY,4047 Grand Port,10314
+11002,Bronx,EE. UU.,XXXXXXXXX,Diana,4066,Cordova,XXXXXXXXX,Consumer,NY,6283 Dusty Rise,10473
+11011,Bronx,EE. UU.,XXXXXXXXX,Mary,2375,Smith,XXXXXXXXX,Consumer,NY,5990 Hazy Glade,10467
+11020,Staten Island,EE. UU.,XXXXXXXXX,Jeffrey,8278,Smith,XXXXXXXXX,Consumer,NY,8205 Silver Grove Row,10314
+11031,Brooklyn,EE. UU.,XXXXXXXXX,Benjamin,4162,Smith,XXXXXXXXX,Consumer,NY,4992 Jagged Forest Subdivision,11237
+11037,Brooklyn,EE. UU.,XXXXXXXXX,Victoria,41,Mason,XXXXXXXXX,Consumer,NY,7869 Crystal View Villas,11230
+11045,Staten Island,EE. UU.,XXXXXXXXX,Cameron,18248,Savage,XXXXXXXXX,Consumer,NY,4791 Rocky Front,10306
+11053,New York,EE. UU.,XXXXXXXXX,Claudia,16456,Vasquez,XXXXXXXXX,Consumer,NY,4232 Rustic Pine Canyon,10021
+11054,Brooklyn,EE. UU.,XXXXXXXXX,Piper,16526,Castro,XXXXXXXXX,Consumer,NY,7894 Misty Dale,11210
+11058,South Richmond Hill,EE. UU.,XXXXXXXXX,Mary,9456,Strickland,XXXXXXXXX,Consumer,NY,1846 Clear Bear Falls,11419
+11100,Tonawanda,EE. UU.,XXXXXXXXX,Chantale,15283,Ross,XXXXXXXXX,Consumer,NY,473 Harvest Row,14150
+11103,South Richmond Hill,EE. UU.,XXXXXXXXX,Alfreda,20054,Wilkins,XXXXXXXXX,Consumer,NY,5161 Old Grove Common,11419
+11106,New York,EE. UU.,XXXXXXXXX,Heidi,20305,Shepherd,XXXXXXXXX,Consumer,NY,7557 Wishing Falls,10033
+11123,Brooklyn,EE. UU.,XXXXXXXXX,Mary,1472,Smith,XXXXXXXXX,Consumer,NY,4170 Rocky Island Route,11201
+11132,Brooklyn,EE. UU.,XXXXXXXXX,William,2956,Harris,XXXXXXXXX,Consumer,NY,4466 Little Grove,11235
+11137,Brooklyn,EE. UU.,XXXXXXXXX,Mary,3479,Vang,XXXXXXXXX,Consumer,NY,3099 Blue Spring Glen,11215
+11139,Brooklyn,EE. UU.,XXXXXXXXX,Jordan,9664,Gay,XXXXXXXXX,Consumer,NY,5165 Little Common,11201
+11142,New York,EE. UU.,XXXXXXXXX,Jessica,4295,Smith,XXXXXXXXX,Consumer,NY,"3587 Blue Mall ",10029
+11144,Brooklyn,EE. UU.,XXXXXXXXX,Beverly,4096,Hodge,XXXXXXXXX,Consumer,NY,5216 Iron Berry Farm,11213
+11147,Troy,EE. UU.,XXXXXXXXX,Mary,10395,Lewis,XXXXXXXXX,Consumer,NY,236 Dusty Bay,12180
+11150,Tonawanda,EE. UU.,XXXXXXXXX,Charles,6254,Day,XXXXXXXXX,Consumer,NY,4899 Rustic Apple Boulevard,14150
+11153,New York,EE. UU.,XXXXXXXXX,Martha,1669,Wilkinson,XXXXXXXXX,Consumer,NY,5332 Heather Hills Isle,10009
+11162,South Richmond Hill,EE. UU.,XXXXXXXXX,Mary,4254,Roberts,XXXXXXXXX,Consumer,NY,5098 Lazy Pathway,11419
+11182,Lindenhurst,EE. UU.,XXXXXXXXX,Mary,184,Boyd,XXXXXXXXX,Consumer,NY,3594 Thunder Zephyr Bank,11757
+11183,New York,EE. UU.,XXXXXXXXX,James,7798,Smith,XXXXXXXXX,Consumer,NY,257 Thunder Lane,10033
+11201,Bay Shore,EE. UU.,XXXXXXXXX,Patience,13309,Mcgee,XXXXXXXXX,Consumer,NY,"3907 Rustic Via ",11706
+11209,Jamaica,EE. UU.,XXXXXXXXX,Sheila,13450,Clark,XXXXXXXXX,Consumer,NY,2638 Clear Log Island,11435
+356,Bronx,EE. UU.,XXXXXXXXX,Dakota,19426,Green,XXXXXXXXX,Consumer,NY,2720 Stony Field,10458
+629,New York,EE. UU.,XXXXXXXXX,Mary,3497,Smith,XXXXXXXXX,Consumer,NY,6449 Lazy Robin Drive,10016
+640,Staten Island,EE. UU.,XXXXXXXXX,Crystal,10031,Blake,XXXXXXXXX,Consumer,NY,6764 Tawny Link,10306
+649,Brooklyn,EE. UU.,XXXXXXXXX,Mary,9419,Smith,XXXXXXXXX,Consumer,NY,6269 Harvest Shadow Meadow,11207
+651,Newburgh,EE. UU.,XXXXXXXXX,Cynthia,7683,Wallace,XXXXXXXXX,Consumer,NY,6412 Quiet Swale,12550
+13518,Brooklyn,EE. UU.,XXXXXXXXX,Sage,16795,Bailey,XXXXXXXXX,Consumer,NY,7320 Lazy Forest Falls,11218
+13536,Hempstead,EE. UU.,XXXXXXXXX,Azalia,16777,Blevins,XXXXXXXXX,Consumer,NY,8776 Green Ridge,11550
+13551,Jamaica,EE. UU.,XXXXXXXXX,Mary,7907,Swanson,XXXXXXXXX,Consumer,NY,8435 Iron Landing,11434
+13614,Brooklyn,EE. UU.,XXXXXXXXX,Ruth,7469,Smith,XXXXXXXXX,Consumer,NY,5599 Cotton Creek Trail,11221
+13626,Brooklyn,EE. UU.,XXXXXXXXX,Mary,631,Colon,XXXXXXXXX,Consumer,NY,1879 Round Dale Stead,11209
+13669,South Ozone Park,EE. UU.,XXXXXXXXX,Lawrence,4957,Kidd,XXXXXXXXX,Consumer,NY,5687 Clear Maze,11420
+13679,Brooklyn,EE. UU.,XXXXXXXXX,Mary,4180,Hicks,XXXXXXXXX,Consumer,NY,5795 Lazy View Concession,11220
+13819,Brooklyn,EE. UU.,XXXXXXXXX,Nathan,4359,Smith,XXXXXXXXX,Consumer,NY,7320 Lazy Forest Falls,11218
+19267,Forest Hills,EE. UU.,XXXXXXXXX,Jane,3312,Smith,XXXXXXXXX,Consumer,NY,6132 Jagged Mountain Downs,11375
+3310,Brooklyn,EE. UU.,XXXXXXXXX,Mary,11131,Smith,XXXXXXXXX,Consumer,NY,5482 Amber Park,11209
+3311,Elmhurst,EE. UU.,XXXXXXXXX,Mary,4491,Banks,XXXXXXXXX,Consumer,NY,3310 Rocky Boulevard,11373
+3324,Brooklyn,EE. UU.,XXXXXXXXX,Crystal,4572,Lucero,XXXXXXXXX,Consumer,NY,415 Golden Meadow,11201
+3332,Brooklyn,EE. UU.,XXXXXXXXX,Alice,3678,Castro,XXXXXXXXX,Consumer,NY,7760 Fallen Circuit,11226
+3333,Webster,EE. UU.,XXXXXXXXX,Kyle,11275,Wheeler,XXXXXXXXX,Consumer,NY,8864 Harvest Chase,14580
+3339,New York,EE. UU.,XXXXXXXXX,Deborah,8448,Brown,XXXXXXXXX,Consumer,NY,16 Golden Robin Mews,10009
+3353,Bronx,EE. UU.,XXXXXXXXX,Jacob,914,Martinez,XXXXXXXXX,Consumer,NY,2043 Tawny Shadow Orchard,10458
+3356,Troy,EE. UU.,XXXXXXXXX,Thomas,1689,Smith,XXXXXXXXX,Consumer,NY,4293 Rustic Island,12180
+3359,Brooklyn,EE. UU.,XXXXXXXXX,Mary,6285,Garcia,XXXXXXXXX,Consumer,NY,8679 Rocky Glen,11201
+3368,Staten Island,EE. UU.,XXXXXXXXX,Mary,5383,Frye,XXXXXXXXX,Consumer,NY,8342 Rocky Row,10312
+3374,Jackson Heights,EE. UU.,XXXXXXXXX,Amy,2962,Smith,XXXXXXXXX,Consumer,NY,3257 Sleepy View Downs,11372
+3391,South Ozone Park,EE. UU.,XXXXXXXXX,Emma,613,Smith,XXXXXXXXX,Consumer,NY,3094 Round Forest Terrace,11420
+3392,Brooklyn,EE. UU.,XXXXXXXXX,Kyle,2585,Rice,XXXXXXXXX,Consumer,NY,7861 Grand Point,11210
+3412,Jamaica,EE. UU.,XXXXXXXXX,Mary,1014,Maxwell,XXXXXXXXX,Consumer,NY,2638 Clear Log Island,11435
+3415,Ridgewood,EE. UU.,XXXXXXXXX,Harry,8734,Chambers,XXXXXXXXX,Consumer,NY,2447 Wishing Cider Private,11385
+3456,Brooklyn,EE. UU.,XXXXXXXXX,Gregory,6307,Smith,XXXXXXXXX,Consumer,NY,5032 Thunder Quail Path,11203
+3457,Bronx,EE. UU.,XXXXXXXXX,Mary,2382,Holloway,XXXXXXXXX,Consumer,NY,7773 Merry Autoroute,10463
+3502,Yonkers,EE. UU.,XXXXXXXXX,Michelle,4101,Collins,XXXXXXXXX,Consumer,NY,4545 Quaking Hickory Ledge,10701
+3504,Bronx,EE. UU.,XXXXXXXXX,Mary,9401,Fritz,XXXXXXXXX,Consumer,NY,6058 Fallen Walk,10463
+3508,New York,EE. UU.,XXXXXXXXX,Mary,6925,Smith,XXXXXXXXX,Consumer,NY,4294 Foggy By-pass,10029
+3511,Far Rockaway,EE. UU.,XXXXXXXXX,Mary,5469,Bradley,XXXXXXXXX,Consumer,NY,5958 Emerald Nook,11691
+3515,Bronx,EE. UU.,XXXXXXXXX,Mary,12050,Smith,XXXXXXXXX,Consumer,NY,6270 Quaking Townline,10467
+3519,Spring Valley,EE. UU.,XXXXXXXXX,Michael,10690,Gonzalez,XXXXXXXXX,Consumer,NY,263 Hazy Wharf,10977
+3540,Bronx,EE. UU.,XXXXXXXXX,Mary,5490,Richardson,XXXXXXXXX,Consumer,NY,9437 Emerald Butterfly Edge,10466
+3547,Freeport,EE. UU.,XXXXXXXXX,Kimberly,1790,Sherman,XXXXXXXXX,Consumer,NY,8808 Indian Autoroute,11520
+3549,Staten Island,EE. UU.,XXXXXXXXX,Nicholas,12226,Smith,XXXXXXXXX,Consumer,NY,3612 Silver Autumn Extension,10314
+16466,Endicott,EE. UU.,XXXXXXXXX,Emma,17320,Skinner,XXXXXXXXX,Consumer,NY,3927 Indian Village,13760
+16467,Brooklyn,EE. UU.,XXXXXXXXX,Jordana,18509,Beck,XXXXXXXXX,Consumer,NY,3099 Blue Spring Glen,11215
+16476,New York,EE. UU.,XXXXXXXXX,Yael,20544,Whitfield,XXXXXXXXX,Consumer,NY,4720 Noble Hills Wynd,10016
+16477,Rome,EE. UU.,XXXXXXXXX,Anjolie,18399,Bass,XXXXXXXXX,Consumer,NY,8056 Golden Log Bend,13440
+16479,Troy,EE. UU.,XXXXXXXXX,Clementine,15957,Cohen,XXXXXXXXX,Consumer,NY,4075 Silver Hills Heights,12180
+16488,Brooklyn,EE. UU.,XXXXXXXXX,Briar,18413,Larsen,XXXXXXXXX,Consumer,NY,5325 Lost Horse Mews,11220
+16491,Bronx,EE. UU.,XXXXXXXXX,Deborah,20576,Miranda,XXXXXXXXX,Consumer,NY,4587 Noble Zephyr Promenade,10466
+16495,Brooklyn,EE. UU.,XXXXXXXXX,Signe,18484,Brady,XXXXXXXXX,Consumer,NY,2863 Crystal Barn End,11203
+16500,Lindenhurst,EE. UU.,XXXXXXXXX,Rhoda,15969,York,XXXXXXXXX,Consumer,NY,3702 Broad Path,11757
+16501,Newburgh,EE. UU.,XXXXXXXXX,Hillary,20573,Dudley,XXXXXXXXX,Consumer,NY,8721 Sleepy Passage,12550
+16507,Bronx,EE. UU.,XXXXXXXXX,Odette,15377,Mullins,XXXXXXXXX,Consumer,NY,3692 Cotton Horse Common,10473
+16520,Rego Park,EE. UU.,XXXXXXXXX,Donna,15438,Stone,XXXXXXXXX,Consumer,NY,7353 Round Spring Chase,11374
+16525,Levittown,EE. UU.,XXXXXXXXX,Vivien,15362,Church,XXXXXXXXX,Consumer,NY,182 Hazy Village,11756
+16540,Bronx,EE. UU.,XXXXXXXXX,Deborah,17600,Buchanan,XXXXXXXXX,Consumer,NY,5723 Stony Valley,10457
+16554,Jamaica,EE. UU.,XXXXXXXXX,Dominique,19825,Sherman,XXXXXXXXX,Consumer,NY,8950 Thunder Fawn Farm,11435
+16557,Bronx,EE. UU.,XXXXXXXXX,Medge,20364,Harvey,XXXXXXXXX,Consumer,NY,444 Grand Corner,10462
+16570,Brooklyn,EE. UU.,XXXXXXXXX,Sophia,15243,Giles,XXXXXXXXX,Consumer,NY,3957 Bright Zephyr Cove,11206
+16574,New York,EE. UU.,XXXXXXXXX,Deanna,18958,Lara,XXXXXXXXX,Consumer,NY,5628 Clear Knoll,10016
+16592,Bronx,EE. UU.,XXXXXXXXX,Myra,17126,Arnold,XXXXXXXXX,Consumer,NY,8976 Old Hickory Landing,10467
+16602,New York,EE. UU.,XXXXXXXXX,Rhoda,18527,Howe,XXXXXXXXX,Consumer,NY,6449 Lazy Robin Drive,10016
+16623,Brooklyn,EE. UU.,XXXXXXXXX,Mary,10754,Ewing,XXXXXXXXX,Consumer,NY,830 Colonial View Row,11219
+11217,Troy,EE. UU.,XXXXXXXXX,Megan,14125,Carpenter,XXXXXXXXX,Consumer,NY,4293 Rustic Island,12180
+11237,Woodside,EE. UU.,XXXXXXXXX,Christine,14118,Greer,XXXXXXXXX,Consumer,NY,6909 Sleepy Fawn Path,11377
+11257,Brooklyn,EE. UU.,XXXXXXXXX,Carolyn,5291,Johnson,XXXXXXXXX,Consumer,NY,122 Stony Quail Canyon,11201
+11258,Massapequa,EE. UU.,XXXXXXXXX,Lillith,13951,Kelly,XXXXXXXXX,Consumer,NY,7868 Shady Log Island,11758
+11263,Rego Park,EE. UU.,XXXXXXXXX,Mary,3203,Bryan,XXXXXXXXX,Consumer,NY,4916 Honey Highlands,11374
+11271,Bronx,EE. UU.,XXXXXXXXX,Briar,13659,Gates,XXXXXXXXX,Consumer,NY,1655 Little Bear Circle,10469
+11274,Endicott,EE. UU.,XXXXXXXXX,Joe,2290,Wright,XXXXXXXXX,Consumer,NY,3927 Indian Village,13760
+11288,Jamaica,EE. UU.,XXXXXXXXX,Christine,5646,Smith,XXXXXXXXX,Consumer,NY,7940 Noble Field,11435
+11291,New York,EE. UU.,XXXXXXXXX,Martha,13691,Booth,XXXXXXXXX,Consumer,NY,7236 Cotton Cove,10032
+11308,Webster,EE. UU.,XXXXXXXXX,Lee,14759,Mcdaniel,XXXXXXXXX,Consumer,NY,2959 Old Blossom Farms,14580
+663,New York,EE. UU.,XXXXXXXXX,Aaron,11065,Smith,XXXXXXXXX,Consumer,NY,5493 Burning Horse Heath,10031
+668,New York,EE. UU.,XXXXXXXXX,Jennifer,10577,Fuentes,XXXXXXXXX,Consumer,NY,5659 Shady Cloud Port,10003
+672,Rome,EE. UU.,XXXXXXXXX,Daniel,9814,Smith,XXXXXXXXX,Consumer,NY,6115 Clear River Key,13440
+677,Brooklyn,EE. UU.,XXXXXXXXX,Anna,6506,Bailey,XXXXXXXXX,Consumer,NY,1773 Amber Walk,11229
+678,Endicott,EE. UU.,XXXXXXXXX,Rebecca,6050,Arnold,XXXXXXXXX,Consumer,NY,8775 Wishing Pony Byway,13760
+696,Astoria,EE. UU.,XXXXXXXXX,Mary,1759,Barnett,XXXXXXXXX,Consumer,NY,1040 Quaking Mountain Heath,11103
+701,Jamaica,EE. UU.,XXXXXXXXX,Mary,6402,Frazier,XXXXXXXXX,Consumer,NY,4599 Grand Route,11432
+788,Ithaca,EE. UU.,XXXXXXXXX,Mary,6220,Smith,XXXXXXXXX,Consumer,NY,2329 Sunny View Corner,14850
+798,Tonawanda,EE. UU.,XXXXXXXXX,Mary,7363,Cole,XXXXXXXXX,Consumer,NY,1831 Honey Hickory Mount,14150
+806,Brooklyn,EE. UU.,XXXXXXXXX,Harry,3964,Smith,XXXXXXXXX,Consumer,NY,2541 Merry Fawn Via,11238
+814,Brooklyn,EE. UU.,XXXXXXXXX,Mary,7924,Arnold,XXXXXXXXX,Consumer,NY,5407 Rustic Forest Pines,11218
+815,North Tonawanda,EE. UU.,XXXXXXXXX,Mary,3206,Smith,XXXXXXXXX,Consumer,NY,3601 Foggy Timber Gate,14120
+817,Massapequa,EE. UU.,XXXXXXXXX,Cynthia,3141,Shannon,XXXXXXXXX,Consumer,NY,3470 Clear Estates,11758
+837,Huntington Station,EE. UU.,XXXXXXXXX,Ronald,1045,Rivas,XXXXXXXXX,Consumer,NY,432 Dusty Glen,11746
+949,Forest Hills,EE. UU.,XXXXXXXXX,Mariam,19330,Hopkins,XXXXXXXXX,Consumer,NY,7861 Grand Point,11375
+953,Webster,EE. UU.,XXXXXXXXX,Patience,19326,Cote,XXXXXXXXX,Consumer,NY,3867 Middle Leaf By-pass,14580
+954,New York,EE. UU.,XXXXXXXXX,Amena,19325,Bowman,XXXXXXXXX,Consumer,NY,3587 Blue Mall,10029
+958,Corona,EE. UU.,XXXXXXXXX,Daria,19321,Whitehead,XXXXXXXXX,Consumer,NY,250 Easy Jetty,11368
+960,New York,EE. UU.,XXXXXXXXX,Kelsie,19319,Browning,XXXXXXXXX,Consumer,NY,3309 Merry Falls,10040
+13877,Brooklyn,EE. UU.,XXXXXXXXX,Brittany,2807,Waller,XXXXXXXXX,Consumer,NY,3957 Bright Zephyr Cove,11206
+13888,Elmhurst,EE. UU.,XXXXXXXXX,Doris,8134,Smith,XXXXXXXXX,Consumer,NY,2861 Dusty Island,11373
+13892,Tonawanda,EE. UU.,XXXXXXXXX,Mary,4458,Smith,XXXXXXXXX,Consumer,NY,2122 Hazy Corner,14150
+3786,Troy,EE. UU.,XXXXXXXXX,Mary,6662,Rocha,XXXXXXXXX,Consumer,NY,3320 Bright Barn Carrefour,12180
+3791,Brooklyn,EE. UU.,XXXXXXXXX,Mary,8063,Newman,XXXXXXXXX,Consumer,NY,3853 Pleasant Mountain Corners,11208
+3819,New York,EE. UU.,XXXXXXXXX,Eric,10436,King,XXXXXXXXX,Consumer,NY,2538 Quaking Hills Ramp,10029
+3919,Webster,EE. UU.,XXXXXXXXX,Laura,7262,Lee,XXXXXXXXX,Consumer,NY,7893 Emerald Vista,14580
+3930,Rome,EE. UU.,XXXXXXXXX,Thomas,1852,Crawford,XXXXXXXXX,Consumer,NY,1236 Stony Apple Corners,13440
+3938,Newburgh,EE. UU.,XXXXXXXXX,Charles,10248,Davis,XXXXXXXXX,Consumer,NY,3762 Amber Estates,12550
+16850,North Tonawanda,EE. UU.,XXXXXXXXX,Eliana,18236,Grant,XXXXXXXXX,Consumer,NY,3601 Foggy Timber Gate,14120
+16856,Forest Hills,EE. UU.,XXXXXXXXX,Keiko,18231,Dale,XXXXXXXXX,Consumer,NY,9117 Rustic Beach,11375
+16860,Ithaca,EE. UU.,XXXXXXXXX,Katelyn,19179,Noel,XXXXXXXXX,Consumer,NY,8428 Honey Freeway,14850
+16867,Tonawanda,EE. UU.,XXXXXXXXX,Grace,16515,Velazquez,XXXXXXXXX,Consumer,NY,9854 Wishing Isle,14150
+16872,Brooklyn,EE. UU.,XXXXXXXXX,Doris,19062,Brennan,XXXXXXXXX,Consumer,NY,9512 Old Pony Canyon,11213
+16880,Flushing,EE. UU.,XXXXXXXXX,Rebekah,19129,Bowers,XXXXXXXXX,Consumer,NY,8799 Cozy Pike,11354
+16885,Brooklyn,EE. UU.,XXXXXXXXX,Willow,16468,Hill,XXXXXXXXX,Consumer,NY,9512 Old Pony Canyon,11213
+16888,New York,EE. UU.,XXXXXXXXX,Octavia,15700,Durham,XXXXXXXXX,Consumer,NY,8866 Cotton Timber Meadow,10011
+16894,Forest Hills,EE. UU.,XXXXXXXXX,Jane,15748,Ford,XXXXXXXXX,Consumer,NY,6132 Jagged Mountain Downs,11375
+16910,Tonawanda,EE. UU.,XXXXXXXXX,Unity,15812,Vargas,XXXXXXXXX,Consumer,NY,1942 Middle Bluff Crescent,14150
+16920,Rego Park,EE. UU.,XXXXXXXXX,Madeson,18032,Fletcher,XXXXXXXXX,Consumer,NY,7353 Round Spring Chase,11374
+16925,Brooklyn,EE. UU.,XXXXXXXXX,Brianna,20696,Rivera,XXXXXXXXX,Consumer,NY,1096 Cozy Point,11203
+16931,Freeport,EE. UU.,XXXXXXXXX,Gemma,20552,Malone,XXXXXXXXX,Consumer,NY,3627 Lost Butterfly Drive,11520
+16943,Far Rockaway,EE. UU.,XXXXXXXXX,Athena,20729,Ramos,XXXXXXXXX,Consumer,NY,357 Quiet Rise,11691
+16971,North Tonawanda,EE. UU.,XXXXXXXXX,Britanni,16065,Ramirez,XXXXXXXXX,Consumer,NY,8944 Red Place,14120
+16986,Forest Hills,EE. UU.,XXXXXXXXX,Pandora,18342,Tucker,XXXXXXXXX,Consumer,NY,6132 Jagged Mountain Downs,11375
+16989,New York,EE. UU.,XXXXXXXXX,Constance,20487,Harmon,XXXXXXXXX,Consumer,NY,1102 Pleasant Maze,10029
+17007,New York,EE. UU.,XXXXXXXXX,Simone,15933,Hess,XXXXXXXXX,Consumer,NY,6449 Lazy Robin Drive,10016
+17016,Brooklyn,EE. UU.,XXXXXXXXX,Ria,15392,Reynolds,XXXXXXXXX,Consumer,NY,4466 Little Grove,11235
+17032,Jackson Heights,EE. UU.,XXXXXXXXX,Jordan,15398,Hoffman,XXXXXXXXX,Consumer,NY,3257 Sleepy View Downs,11372
+17038,Brentwood,EE. UU.,XXXXXXXXX,Susan,6541,Smith,XXXXXXXXX,Consumer,NY,10 Tawny Brook Canyon,11717
+17049,Brooklyn,EE. UU.,XXXXXXXXX,Ainsley,17837,Fisher,XXXXXXXXX,Consumer,NY,3957 Bright Zephyr Cove,11206
+17050,Jackson Heights,EE. UU.,XXXXXXXXX,Celeste,20170,Dawson,XXXXXXXXX,Consumer,NY,9193 Heather Beacon Promenade,11372
+17066,New York,EE. UU.,XXXXXXXXX,Martha,16364,Mcfarland,XXXXXXXXX,Consumer,NY,5628 Clear Knoll,10016
+17075,Brooklyn,EE. UU.,XXXXXXXXX,Moana,17096,Castillo,XXXXXXXXX,Consumer,NY,9406 Middle Cider Crest,11229
+17077,New York,EE. UU.,XXXXXXXXX,Zoe,16291,Daugherty,XXXXXXXXX,Consumer,NY,6502 Red Point,10023
+17097,New York,EE. UU.,XXXXXXXXX,Bell,20162,Willis,XXXXXXXXX,Consumer,NY,6759 Foggy Limits,10033
+17100,Bronx,EE. UU.,XXXXXXXXX,Anjolie,19029,Williams,XXXXXXXXX,Consumer,NY,4715 Harvest Creek Mews,10472
+17111,Brooklyn,EE. UU.,XXXXXXXXX,Rhoda,19027,Keller,XXXXXXXXX,Consumer,NY,5731 Cinder Horse Court,11218
+993,Bronx,EE. UU.,XXXXXXXXX,Yoko,19286,Berg,XXXXXXXXX,Consumer,NY,6724 Crystal Dale,10466
+1036,Forest Hills,EE. UU.,XXXXXXXXX,Eliana,16736,Francis,XXXXXXXXX,Consumer,NY,7861 Grand Point,11375
+1045,Corona,EE. UU.,XXXXXXXXX,Whoopi,16727,Good,XXXXXXXXX,Consumer,NY,250 Easy Jetty,11368
+17117,New York,EE. UU.,XXXXXXXXX,Brianna,17880,Richards,XXXXXXXXX,Consumer,NY,4896 Heather Pond Rise,10128
+17123,Endicott,EE. UU.,XXXXXXXXX,Linda,19978,Nunez,XXXXXXXXX,Consumer,NY,57 High Villas,13760
+17132,Brentwood,EE. UU.,XXXXXXXXX,Shay,17069,Richard,XXXXXXXXX,Consumer,NY,4599 Red Pathway,11717
+17133,Tonawanda,EE. UU.,XXXXXXXXX,Sydnee,17877,Petersen,XXXXXXXXX,Consumer,NY,473 Harvest Row,14150
+17135,Elmhurst,EE. UU.,XXXXXXXXX,Raya,20246,Dillard,XXXXXXXXX,Consumer,NY,2909 Gentle Fawn Round,11373
+17138,Brooklyn,EE. UU.,XXXXXXXXX,Cassady,16208,Chambers,XXXXXXXXX,Consumer,NY,283 Honey Goose Crescent,11229
+17148,Levittown,EE. UU.,XXXXXXXXX,Nevada,19085,Witt,XXXXXXXXX,Consumer,NY,65 Middle Farms,11756
+17156,Bronx,EE. UU.,XXXXXXXXX,Imani,18315,Bailey,XXXXXXXXX,Consumer,NY,1980 Wishing Vale,10472
+17164,Lindenhurst,EE. UU.,XXXXXXXXX,Tana,17368,Love,XXXXXXXXX,Consumer,NY,273 Velvet Anchor Pines,11757
+17174,Massapequa,EE. UU.,XXXXXXXXX,Candice,15577,Rush,XXXXXXXXX,Consumer,NY,3470 Clear Estates,11758
+3965,Brooklyn,EE. UU.,XXXXXXXXX,Christopher,3454,Bradshaw,XXXXXXXXX,Consumer,NY,2863 Crystal Barn End,11203
+3970,Brooklyn,EE. UU.,XXXXXXXXX,Jeremy,2120,Smith,XXXXXXXXX,Consumer,NY,23 Old Corners,11214
+3989,Brooklyn,EE. UU.,XXXXXXXXX,Mary,440,Skinner,XXXXXXXXX,Consumer,NY,2934 Merry Impasse,11203
+3991,Brooklyn,EE. UU.,XXXXXXXXX,Benjamin,3238,Hoffman,XXXXXXXXX,Consumer,NY,9009 Umber Log Island,11226
+3996,South Ozone Park,EE. UU.,XXXXXXXXX,Maryam,12648,Gregory,XXXXXXXXX,Consumer,NY,"5723 Stony Valley ",11420
+4009,Massapequa,EE. UU.,XXXXXXXXX,Mary,12417,Smith,XXXXXXXXX,Consumer,NY,9765 Umber Green,11758
+4033,Bronx,EE. UU.,XXXXXXXXX,Mary,9458,Carlson,XXXXXXXXX,Consumer,NY,9995 Tawny Embers View,10453
+4042,Brooklyn,EE. UU.,XXXXXXXXX,Alexander,6030,Adams,XXXXXXXXX,Consumer,NY,2681 Cinder By-pass,11230
+4056,Brooklyn,EE. UU.,XXXXXXXXX,Emily,17717,Stevens,XXXXXXXXX,Consumer,NY,3914 Silver Horse Cape,11226
+4081,Bronx,EE. UU.,XXXXXXXXX,Mary,4256,Tate,XXXXXXXXX,Consumer,NY,6724 Crystal Dale,10466
+4096,New York,EE. UU.,XXXXXXXXX,Richard,1255,Goodman,XXXXXXXXX,Consumer,NY,7236 Cotton Cove,10032
+11976,South Ozone Park,EE. UU.,XXXXXXXXX,Tammy,7939,Smith,XXXXXXXXX,Consumer,NY,902 Lazy Port,11420
+11977,Brooklyn,EE. UU.,XXXXXXXXX,Mary,10418,Arroyo,XXXXXXXXX,Consumer,NY,8344 Hazy Bear Diversion,11209
+11993,Bronx,EE. UU.,XXXXXXXXX,Mary,7772,Thompson,XXXXXXXXX,Consumer,NY,4034 Emerald Heights,10467
+11997,Brooklyn,EE. UU.,XXXXXXXXX,Mary,141,Mcmahon,XXXXXXXXX,Consumer,NY,1526 Broad Mountain Plaza,11203
+12020,Brooklyn,EE. UU.,XXXXXXXXX,Adele,15915,Ward,XXXXXXXXX,Consumer,NY,3099 Blue Spring Glen,11215
+12035,New York,EE. UU.,XXXXXXXXX,Marie,8083,Figueroa,XXXXXXXXX,Consumer,NY,8600 Stony Gate Terrace,10025
+12046,Huntington Station,EE. UU.,XXXXXXXXX,Deme,20597,Holt,XXXXXXXXX,Consumer,NY,432 Dusty Glen,11746
+12050,New York,EE. UU.,XXXXXXXXX,Yoshi,20379,Powers,XXXXXXXXX,Consumer,NY,5505 Grand Cloud Farm,10031
+12065,North Tonawanda,EE. UU.,XXXXXXXXX,Tashya,15445,Mccarty,XXXXXXXXX,Consumer,NY,7309 Velvet Willow Heath,14120
+12070,Staten Island,EE. UU.,XXXXXXXXX,Kendall,15654,Morse,XXXXXXXXX,Consumer,NY,4791 Rocky Front,10306
+12083,New York,EE. UU.,XXXXXXXXX,Mary,16115,Branch,XXXXXXXXX,Consumer,NY,2455 Stony Fox Crossing,10027
+12104,Brooklyn,EE. UU.,XXXXXXXXX,Jena,20157,Horton,XXXXXXXXX,Consumer,NY,4285 Rocky Round,11236
+12108,Brooklyn,EE. UU.,XXXXXXXXX,Hedy,19992,Osborne,XXXXXXXXX,Consumer,NY,2934 Merry Impasse,11203
+12111,Lockport,EE. UU.,XXXXXXXXX,Abra,19259,Barber,XXXXXXXXX,Consumer,NY,2805 Crystal Moor,14094
+12112,Tonawanda,EE. UU.,XXXXXXXXX,Shay,19109,Branch,XXXXXXXXX,Consumer,NY,9854 Wishing Isle,14150
+12117,Brooklyn,EE. UU.,XXXXXXXXX,Mary,11291,Ramirez,XXXXXXXXX,Consumer,NY,3891 Broad Line,11233
+12136,Brooklyn,EE. UU.,XXXXXXXXX,Mary,7682,Smith,XXXXXXXXX,Consumer,NY,3088 Red Vista,11207
+12153,Massapequa,EE. UU.,XXXXXXXXX,Crystal,1515,Peters,XXXXXXXXX,Consumer,NY,7868 Shady Log Island,11758
+12168,Rome,EE. UU.,XXXXXXXXX,Jerry,8636,Valentine,XXXXXXXXX,Consumer,NY,4823 Tawny Moor,13440
+12169,Brooklyn,EE. UU.,XXXXXXXXX,Mary,5899,Hubbard,XXXXXXXXX,Consumer,NY,8572 Silent Crest,11235
+12173,Brentwood,EE. UU.,XXXXXXXXX,Ruth,11638,Stewart,XXXXXXXXX,Consumer,NY,4992 Amber Island Row,11717
+12183,Brentwood,EE. UU.,XXXXXXXXX,Avye,14475,Dorsey,XXXXXXXXX,Consumer,NY,4599 Red Pathway,11717
+12185,Brooklyn,EE. UU.,XXXXXXXXX,Daryl,13441,Odonnell,XXXXXXXXX,Consumer,NY,1322 Broad Glade,11207
+12189,Bronx,EE. UU.,XXXXXXXXX,Mary,11069,Morton,XXXXXXXXX,Consumer,NY,8414 Velvet Island Ramp,10461
+1338,Brooklyn,EE. UU.,XXXXXXXXX,Mary,928,Wilson,XXXXXXXXX,Consumer,NY,9099 Shady Round,11226
+1340,Brooklyn,EE. UU.,XXXXXXXXX,Mary,7762,Roberson,XXXXXXXXX,Consumer,NY,9891 Golden Panda Highlands,11209
+1354,New York,EE. UU.,XXXXXXXXX,Ruth,5584,Smith,XXXXXXXXX,Consumer,NY,8297 Easy Thicket,10021
+1362,Brooklyn,EE. UU.,XXXXXXXXX,Mary,1564,Davenport,XXXXXXXXX,Consumer,NY,961 Crystal Farm,11218
+1365,Bronx,EE. UU.,XXXXXXXXX,Ashley,5158,Smith,XXXXXXXXX,Consumer,NY,3810 Crystal Plaza,10467
+1374,Brooklyn,EE. UU.,XXXXXXXXX,Donna,134,Gomez,XXXXXXXXX,Consumer,NY,1690 Cinder Deer Chase,11224
+1391,Brooklyn,EE. UU.,XXXXXXXXX,Mary,1996,Smith,XXXXXXXXX,Consumer,NY,2433 Noble Bear Beach,11220
+1395,Spring Valley,EE. UU.,XXXXXXXXX,Mary,2717,Smith,XXXXXXXXX,Consumer,NY,3238 Pleasant Leaf Thicket,10977
+1403,Bronx,EE. UU.,XXXXXXXXX,Aaron,12416,Cline,XXXXXXXXX,Consumer,NY,9986 Wishing Stead,10467
+1405,Yonkers,EE. UU.,XXXXXXXXX,Deborah,245,Smith,XXXXXXXXX,Consumer,NY,6425 Thunder Impasse,10701
+1434,Freeport,EE. UU.,XXXXXXXXX,Joyce,4452,Lopez,XXXXXXXXX,Consumer,NY,3243 Shady Corner,11520
+1437,Rome,EE. UU.,XXXXXXXXX,Joseph,3369,Clark,XXXXXXXXX,Consumer,NY,8056 Golden Log Bend,13440
+1448,Tonawanda,EE. UU.,XXXXXXXXX,Mary,11073,Smith,XXXXXXXXX,Consumer,NY,475 Colonial Autoroute,14150
+1609,Bronx,EE. UU.,XXXXXXXXX,Megan,6524,Brown,XXXXXXXXX,Consumer,NY,1595 Velvet Gate Island,10458
+1618,New York,EE. UU.,XXXXXXXXX,Joshua,323,Smith,XXXXXXXXX,Consumer,NY,"3758 Sunny Mall ",10025
+1622,Tonawanda,EE. UU.,XXXXXXXXX,Stephen,5268,Blair,XXXXXXXXX,Consumer,NY,6317 Stony Fawn Glade,14150
+1630,Brooklyn,EE. UU.,XXXXXXXXX,David,1508,Lyons,XXXXXXXXX,Consumer,NY,3495 Wishing Landing,11220
+6748,Bronx,EE. UU.,XXXXXXXXX,Mary,12129,Perkins,XXXXXXXXX,Consumer,NY,6630 Umber Dale View,10468
+6755,Endicott,EE. UU.,XXXXXXXXX,Helen,9747,Davidson,XXXXXXXXX,Consumer,NY,5918 Easy Mountain Beach,13760
+6761,Jackson Heights,EE. UU.,XXXXXXXXX,Mary,6674,Shaw,XXXXXXXXX,Consumer,NY,5640 Dewy Wharf,11372
+6779,Bronx,EE. UU.,XXXXXXXXX,Paul,1024,Alvarado,XXXXXXXXX,Consumer,NY,4587 Noble Zephyr Promenade,10466
+6784,New York,EE. UU.,XXXXXXXXX,Mary,6478,Smith,XXXXXXXXX,Consumer,NY,7958 Thunder Apple Street,10040
+6786,Yonkers,EE. UU.,XXXXXXXXX,Jennifer,11103,Bray,XXXXXXXXX,Consumer,NY,2968 Iron Butterfly Close,10701
+6787,Rome,EE. UU.,XXXXXXXXX,Anthony,5810,Smith,XXXXXXXXX,Consumer,NY,6888 Wishing Mountain Run,13440
+6790,Bronx,EE. UU.,XXXXXXXXX,Benjamin,8749,Graham,XXXXXXXXX,Consumer,NY,75 Sunny Grounds,10468
+6808,Brooklyn,EE. UU.,XXXXXXXXX,Melissa,11107,Smith,XXXXXXXXX,Consumer,NY,2070 Honey Nectar Impasse,11238
+6811,Bronx,EE. UU.,XXXXXXXXX,David,11787,Smith,XXXXXXXXX,Consumer,NY,7119 Lazy Blossom Isle,10460
+6822,Elmhurst,EE. UU.,XXXXXXXXX,Barbara,694,Marshall,XXXXXXXXX,Consumer,NY,2909 Gentle Fawn Round,11373
+6831,Ithaca,EE. UU.,XXXXXXXXX,Mary,2631,Payne,XXXXXXXXX,Consumer,NY,4189 Bright Rise By-pass,14850
+6861,Bronx,EE. UU.,XXXXXXXXX,Mary,2252,Smith,XXXXXXXXX,Consumer,NY,1744 Clear Way,10458
+6880,Newburgh,EE. UU.,XXXXXXXXX,Mary,3098,Smith,XXXXXXXXX,Consumer,NY,8217 Fallen Panda Walk,12550
+6897,Brooklyn,EE. UU.,XXXXXXXXX,Mary,7218,Nguyen,XXXXXXXXX,Consumer,NY,5707 Burning Manor,11208
+6899,Lindenhurst,EE. UU.,XXXXXXXXX,Terry,6415,Carpenter,XXXXXXXXX,Consumer,NY,5486 Golden Bluff Field,11757
+6912,Bronx,EE. UU.,XXXXXXXXX,Amy,10547,Ruiz,XXXXXXXXX,Consumer,NY,1040 Shady Horse Limits,10473
+6914,Brooklyn,EE. UU.,XXXXXXXXX,Rachel,2174,Fuentes,XXXXXXXXX,Consumer,NY,9939 Quaking Chase,11204
+6918,Jamaica,EE. UU.,XXXXXXXXX,Donald,5888,Rowland,XXXXXXXXX,Consumer,NY,4839 Golden Extension,11434
+14729,New York,EE. UU.,XXXXXXXXX,Martina,13046,Thornton,XXXXXXXXX,Consumer,NY,"6759 Foggy Limits ",10033
+14770,Levittown,EE. UU.,XXXXXXXXX,Benjamin,12433,Garcia,XXXXXXXXX,Consumer,NY,5459 Noble Brook Landing,11756
+14799,Brooklyn,EE. UU.,XXXXXXXXX,Emma,3966,Smith,XXXXXXXXX,Consumer,NY,409 Tawny Range,11236
+14801,Bronx,EE. UU.,XXXXXXXXX,Mary,11181,Hernandez,XXXXXXXXX,Consumer,NY,4171 Stony Fawn Pike,10473
+14807,Hempstead,EE. UU.,XXXXXXXXX,Mary,4341,Smith,XXXXXXXXX,Consumer,NY,8776 Green Ridge,11550
+17522,Bay Shore,EE. UU.,XXXXXXXXX,Mark,10228,Rios,XXXXXXXXX,Consumer,NY,5603 Silver Beacon Cove,11706
+17536,Brooklyn,EE. UU.,XXXXXXXXX,Carol,8813,Smith,XXXXXXXXX,Consumer,NY,3042 Rustic Nook,11234
+17599,Brooklyn,EE. UU.,XXXXXXXXX,Charles,10941,Bradshaw,XXXXXXXXX,Consumer,NY,3719 Silver Key,11203
+17611,Astoria,EE. UU.,XXXXXXXXX,Shirley,7313,Berry,XXXXXXXXX,Consumer,NY,4490 Dusty Byway,11103
+17626,Brooklyn,EE. UU.,XXXXXXXXX,Alexander,4129,Chavez,XXXXXXXXX,Consumer,NY,8828 Little Nook,11209
+17669,New York,EE. UU.,XXXXXXXXX,Andrew,9430,Smith,XXXXXXXXX,Consumer,NY,5292 Velvet Pine Port,10002
+17684,Corona,EE. UU.,XXXXXXXXX,Sydnee,14884,Freeman,XXXXXXXXX,Consumer,NY,7887 Foggy Bluff Autoroute,11368
+17693,Brooklyn,EE. UU.,XXXXXXXXX,Lesley,13636,Brady,XXXXXXXXX,Consumer,NY,6818 Middle Zephyr Forest,11238
+17710,New York,EE. UU.,XXXXXXXXX,Maggie,18645,Kime,XXXXXXXXX,Consumer,NY,6002 Emerald Cloud Mountain,10025
+12204,Brooklyn,EE. UU.,XXXXXXXXX,Mary,62,Oneal,XXXXXXXXX,Consumer,NY,2659 Jagged Rabbit View,11223
+12212,Lockport,EE. UU.,XXXXXXXXX,Mary,10050,Garcia,XXXXXXXXX,Consumer,NY,538 Iron Crossing,14094
+12215,Lindenhurst,EE. UU.,XXXXXXXXX,Susan,7896,Smith,XXXXXXXXX,Consumer,NY,1945 Iron Panda Circle,11757
+12236,Brooklyn,EE. UU.,XXXXXXXXX,Stephen,8566,Lee,XXXXXXXXX,Consumer,NY,5117 Red Wynd,11218
+12238,Brooklyn,EE. UU.,XXXXXXXXX,Velma,16114,Mcguire,XXXXXXXXX,Consumer,NY,7760 Fallen Circuit,11226
+12242,South Richmond Hill,EE. UU.,XXXXXXXXX,Dominique,16289,Morrison,XXXXXXXXX,Consumer,NY,5311 Honey Parkway,11419
+12243,Brooklyn,EE. UU.,XXXXXXXXX,Jayme,16249,Diaz,XXXXXXXXX,Consumer,NY,1829 Jagged Gate Forest,11201
+12249,Brooklyn,EE. UU.,XXXXXXXXX,Willow,17674,Johns,XXXXXXXXX,Consumer,NY,6588 Burning Pike,11218
+12252,Brooklyn,EE. UU.,XXXXXXXXX,Galena,17053,Erickson,XXXXXXXXX,Consumer,NY,5372 Heather Anchor Canyon,11206
+1653,Brooklyn,EE. UU.,XXXXXXXXX,Nicole,10869,Gallegos,XXXXXXXXX,Consumer,NY,5759 Little Timber By-pass,11220
+1654,Webster,EE. UU.,XXXXXXXXX,Lauren,2495,Lutz,XXXXXXXXX,Consumer,NY,6608 Bright Creek Limits,14580
+1659,New York,EE. UU.,XXXXXXXXX,Ruth,336,Armstrong,XXXXXXXXX,Consumer,NY,6146 Dewy Jetty,10029
+1668,Buffalo,EE. UU.,XXXXXXXXX,Johnny,5048,Smith,XXXXXXXXX,Consumer,NY,3367 Merry Mews,14215
+1677,New York,EE. UU.,XXXXXXXXX,Teresa,5606,White,XXXXXXXXX,Consumer,NY,4251 Iron Robin Falls,10011
+1686,Brooklyn,EE. UU.,XXXXXXXXX,Jessica,6295,Parker,XXXXXXXXX,Consumer,NY,902 Little Falls,11207
+1700,Brooklyn,EE. UU.,XXXXXXXXX,Mary,7612,Brown,XXXXXXXXX,Consumer,NY,"6188 Lazy Island Mall ",11234
+1701,Brooklyn,EE. UU.,XXXXXXXXX,Rebecca,2133,Roberts,XXXXXXXXX,Consumer,NY,7658 Foggy Prairie Maze,11203
+1702,Tonawanda,EE. UU.,XXXXXXXXX,Timothy,4079,Faulkner,XXXXXXXXX,Consumer,NY,9854 Wishing Isle,14150
+1724,Freeport,EE. UU.,XXXXXXXXX,Bobby,7926,Castillo,XXXXXXXXX,Consumer,NY,8494 Rocky Crossing,11520
+1730,Bronx,EE. UU.,XXXXXXXXX,Frank,5492,Delgado,XXXXXXXXX,Consumer,NY,4174 Dewy Pioneer Court,10467
+2024,Brooklyn,EE. UU.,XXXXXXXXX,Amanda,16641,Brooks,XXXXXXXXX,Consumer,NY,8033 Heather Fox Ridge,11218
+2068,Rego Park,EE. UU.,XXXXXXXXX,Gary,8480,Meza,XXXXXXXXX,Consumer,NY,6040 Sunny Bay,11374
+2129,Corona,EE. UU.,XXXXXXXXX,Mary,6199,Jacobs,XXXXXXXXX,Consumer,NY,1866 Velvet Forest Field,11368
+2155,Elmhurst,EE. UU.,XXXXXXXXX,Mary,7365,Gray,XXXXXXXXX,Consumer,NY,5293 Dewy Range,11373
+2163,Bronx,EE. UU.,XXXXXXXXX,Maria,1152,Smith,XXXXXXXXX,Consumer,NY,3204 Clear Parade,10456
+2176,New York,EE. UU.,XXXXXXXXX,Mary,2345,Smith,XXXXXXXXX,Consumer,NY,1066 Stony Bay,10024
+2284,New York,EE. UU.,XXXXXXXXX,Mary,3259,Gallegos,XXXXXXXXX,Consumer,NY,5351 Blue Treasure Square,10025
+2294,Brooklyn,EE. UU.,XXXXXXXXX,Tammy,6550,Smith,XXXXXXXXX,Consumer,NY,4864 Stony Street,11213
+2299,Astoria,EE. UU.,XXXXXXXXX,Charles,4580,Smith,XXXXXXXXX,Consumer,NY,2488 Quiet Orchard,11103
+2301,Freeport,EE. UU.,XXXXXXXXX,Sandra,7680,Heath,XXXXXXXXX,Consumer,NY,4280 Hazy Cloud Trail,11520
+9999,Brooklyn,EE. UU.,XXXXXXXXX,Mary,2066,Garcia,XXXXXXXXX,Consumer,NY,9406 Middle Cider Crest,11229
+10048,New York,EE. UU.,XXXXXXXXX,Roger,10573,Jackson,XXXXXXXXX,Consumer,NY,475 Colonial Autoroute,10040
+10066,Bronx,EE. UU.,XXXXXXXXX,Catherine,7127,Escobar,XXXXXXXXX,Consumer,NY,4079 Rocky Inlet,10453
+10100,Forest Hills,EE. UU.,XXXXXXXXX,Wayne,5896,Graham,XXXXXXXXX,Consumer,NY,1229 Sunny Forest Place,11375
+10164,Brooklyn,EE. UU.,XXXXXXXXX,Mary,4872,Smith,XXXXXXXXX,Consumer,NY,7792 Rustic Park,11221
+10187,Freeport,EE. UU.,XXXXXXXXX,Jennifer,46,Smith,XXXXXXXXX,Consumer,NY,5463 Rocky Autoroute,11520
+10210,Brooklyn,EE. UU.,XXXXXXXXX,Donna,9567,Booker,XXXXXXXXX,Consumer,NY,6281 Round Farm,11238
+12770,Brooklyn,EE. UU.,XXXXXXXXX,Vincent,11270,Harris,XXXXXXXXX,Consumer,NY,7119 Lazy Blossom Isle,11226
+14813,New York,EE. UU.,XXXXXXXXX,Reagan,18229,Weiss,XXXXXXXXX,Consumer,NY,4365 Silver Bay,10031
+14835,Hempstead,EE. UU.,XXXXXXXXX,Megan,5925,Bennett,XXXXXXXXX,Consumer,NY,4411 Cinder Front,11550
+14838,New York,EE. UU.,XXXXXXXXX,Iola,20678,Blackwell,XXXXXXXXX,Consumer,NY,3309 Grand Circuit,10002
+14849,Jamaica,EE. UU.,XXXXXXXXX,Lila,20566,Estes,XXXXXXXXX,Consumer,NY,2638 Clear Log Island,11435
+14855,Corona,EE. UU.,XXXXXXXXX,Anthony,11805,Smith,XXXXXXXXX,Consumer,NY,6956 Sleepy Wagon  Centre,11368
+14861,Brooklyn,EE. UU.,XXXXXXXXX,Karly,18308,Mills,XXXXXXXXX,Consumer,NY,5368 Green Front,11203
+14870,Brooklyn,EE. UU.,XXXXXXXXX,Aubrey,20557,Mcgowan,XXXXXXXXX,Consumer,NY,1322 Broad Glade,11207
+14874,New York,EE. UU.,XXXXXXXXX,Virginia,16042,Barrett,XXXXXXXXX,Consumer,NY,2319 Fallen Impasse,10033
+14887,New York,EE. UU.,XXXXXXXXX,Mary,8525,Smith,XXXXXXXXX,Consumer,NY,1846 Wishing Gate Green,10033
+14889,Flushing,EE. UU.,XXXXXXXXX,James,11770,Smith,XXXXXXXXX,Consumer,NY,2476 Green Leaf Walk,11355
+14892,New York,EE. UU.,XXXXXXXXX,Karly,15286,Joyner,XXXXXXXXX,Consumer,NY,4896 Heather Pond Rise,10128
+14913,Troy,EE. UU.,XXXXXXXXX,Grace,18551,Rodriquez,XXXXXXXXX,Consumer,NY,4075 Silver Hills Heights,12180
+14942,Troy,EE. UU.,XXXXXXXXX,Mona,18692,Jackson,XXXXXXXXX,Consumer,NY,8248 Blue Corners,12180
+14944,Lindenhurst,EE. UU.,XXXXXXXXX,Mary,3533,Smith,XXXXXXXXX,Consumer,NY,3702 Broad Path,11757
+14946,Webster,EE. UU.,XXXXXXXXX,Petra,17797,Aguirre,XXXXXXXXX,Consumer,NY,6030 Silver Concession,14580
+14950,Yonkers,EE. UU.,XXXXXXXXX,Donna,19797,Horn,XXXXXXXXX,Consumer,NY,6425 Thunder Impasse,10701
+14952,Brooklyn,EE. UU.,XXXXXXXXX,Laura,4854,Owens,XXXXXXXXX,Consumer,NY,7293 Harvest Valley,11230
+14958,Spring Valley,EE. UU.,XXXXXXXXX,Mary,3103,Wilkins,XXXXXXXXX,Consumer,NY,1213 Cotton Pike,10977
+14974,Brooklyn,EE. UU.,XXXXXXXXX,Ashley,7941,Smith,XXXXXXXXX,Consumer,NY,7122 Pleasant Port,11213
+14981,Massapequa,EE. UU.,XXXXXXXXX,Lori,1800,Acosta,XXXXXXXXX,Consumer,NY,2929 Green Grove Corner,11758
+10244,Brentwood,EE. UU.,XXXXXXXXX,Mary,2039,Key,XXXXXXXXX,Consumer,NY,4599 Red Pathway,11717
+10247,New York,EE. UU.,XXXXXXXXX,Mary,5035,Drake,XXXXXXXXX,Consumer,NY,1674 Hidden Field,10032
+10277,New York,EE. UU.,XXXXXXXXX,Mary,5836,Orr,XXXXXXXXX,Consumer,NY,849 Noble Apple Private,10128
+10289,Astoria,EE. UU.,XXXXXXXXX,Amanda,8669,Whitaker,XXXXXXXXX,Consumer,NY,6178 Tawny Villas,11103
+10297,Troy,EE. UU.,XXXXXXXXX,William,11749,Murphy,XXXXXXXXX,Consumer,NY,5761 Stony Key,12180
+10321,New York,EE. UU.,XXXXXXXXX,Lisa,5298,Moore,XXXXXXXXX,Consumer,NY,1663 Hidden Brook Island,10040
+10322,New York,EE. UU.,XXXXXXXXX,Mary,3139,Pope,XXXXXXXXX,Consumer,NY,89 Velvet Woods,10016
+10338,New York,EE. UU.,XXXXXXXXX,Mary,7210,Barry,XXXXXXXXX,Consumer,NY,8533 High Rabbit Cape,10029
+10349,Bronx,EE. UU.,XXXXXXXXX,Mary,4396,Smith,XXXXXXXXX,Consumer,NY,2720 Stony Field,10458
+10360,Rego Park,EE. UU.,XXXXXXXXX,Mary,2394,Smith,XXXXXXXXX,Consumer,NY,8569 Emerald Blossom Concession,11374
+10372,Buffalo,EE. UU.,XXXXXXXXX,Emily,2523,Smith,XXXXXXXXX,Consumer,NY,7502 Foggy Lookout,14221
+10379,New York,EE. UU.,XXXXXXXXX,Olivia,12023,Silva,XXXXXXXXX,Consumer,NY,2722 Lost Glen,10011
+10388,Bronx,EE. UU.,XXXXXXXXX,Rebecca,7973,Smith,XXXXXXXXX,Consumer,NY,9069 Honey Forest Glade,10467
+10392,New York,EE. UU.,XXXXXXXXX,Mary,7037,Bauer,XXXXXXXXX,Consumer,NY,5430 Iron Mountain Lane,10011
+10393,Rego Park,EE. UU.,XXXXXXXXX,Mary,1598,Green,XXXXXXXXX,Consumer,NY,97 Burning Landing,11374
+10409,Brooklyn,EE. UU.,XXXXXXXXX,Sandra,3336,Hunter,XXXXXXXXX,Consumer,NY,6350 Lost Hollow,11209
+10416,New York,EE. UU.,XXXXXXXXX,Angela,4020,Smith,XXXXXXXXX,Consumer,NY,4232 Rustic Pine Canyon,10021
+10421,Buffalo,EE. UU.,XXXXXXXXX,Julia,570,Whitney,XXXXXXXXX,Consumer,NY,5104 Bright Lake Hollow,14215
+10428,Elmhurst,EE. UU.,XXXXXXXXX,Kathryn,10838,Smith,XXXXXXXXX,Consumer,NY,1497 Sleepy Thicket,11373
+10440,Webster,EE. UU.,XXXXXXXXX,Jessamine,12496,Young,XXXXXXXXX,Consumer,NY,"8632 Bright Route ",14580
+10460,Bronx,EE. UU.,XXXXXXXXX,Brenda,12177,Carter,XXXXXXXXX,Consumer,NY,4616 Red Anchor Gardens,10456
+10466,South Richmond Hill,EE. UU.,XXXXXXXXX,Mary,7120,Mcintyre,XXXXXXXXX,Consumer,NY,6956 Misty Anchor Close,11419
+10476,New York,EE. UU.,XXXXXXXXX,James,5608,Smith,XXXXXXXXX,Consumer,NY,6499 Indian Run,10031
+10486,Brooklyn,EE. UU.,XXXXXXXXX,Mary,11525,Williams,XXXXXXXXX,Consumer,NY,436 Velvet Berry Row,11209
+10496,Bronx,EE. UU.,XXXXXXXXX,Mary,7203,King,XXXXXXXXX,Consumer,NY,9228 Honey Branch Green,10453
+10497,Brooklyn,EE. UU.,XXXXXXXXX,Cheryl,7043,Smith,XXXXXXXXX,Consumer,NY,8021 Misty Plaza,11236
+10499,Brooklyn,EE. UU.,XXXXXXXXX,Mary,6057,Lyons,XXXXXXXXX,Consumer,NY,720 Iron Plaza,11216
+10508,Brooklyn,EE. UU.,XXXXXXXXX,Karen,5012,Smith,XXXXXXXXX,Consumer,NY,1800 Cotton Oak Beach,11207
+10517,Brooklyn,EE. UU.,XXXXXXXXX,Imani,18061,Conway,XXXXXXXXX,Consumer,NY,4166 Stony Berry Alley,11214
+10527,Brooklyn,EE. UU.,XXXXXXXXX,Carly,19120,Waller,XXXXXXXXX,Consumer,NY,7894 Misty Dale,11210
+10528,Brooklyn,EE. UU.,XXXXXXXXX,Blossom,19210,Little,XXXXXXXXX,Consumer,NY,5795 Lazy View Concession,11220
+17837,New York,EE. UU.,XXXXXXXXX,Kelsey,19969,Newton,XXXXXXXXX,Consumer,NY,1690 Dusty Mount,10024
+17838,Woodside,EE. UU.,XXXXXXXXX,Henry,6372,Smith,XXXXXXXXX,Consumer,NY,6032 Misty Blossom Farm,11377
+17839,Brooklyn,EE. UU.,XXXXXXXXX,Karly,13364,Robinson,XXXXXXXXX,Consumer,NY,"9099 Shady Round ",11226
+17849,Brooklyn,EE. UU.,XXXXXXXXX,Dominique,13067,Mccarty,XXXXXXXXX,Consumer,NY,1879 Round Dale Stead,11209
+17852,Brooklyn,EE. UU.,XXXXXXXXX,Xena,13663,Ashley,XXXXXXXXX,Consumer,NY,381 Velvet Hickory Beach,11209
+17856,Brooklyn,EE. UU.,XXXXXXXXX,Shellie,13855,Mcgowan,XXXXXXXXX,Consumer,NY,6724 High Chase,11237
+17861,Far Rockaway,EE. UU.,XXXXXXXXX,Linda,12906,Padilla,XXXXXXXXX,Consumer,NY,"9916 Silent Mall ",11691
+17869,Huntington Station,EE. UU.,XXXXXXXXX,Buffy,13484,Nelson,XXXXXXXXX,Consumer,NY,5989 Misty Timber Concession,11746
+17897,New York,EE. UU.,XXXXXXXXX,Bertha,13428,Garcia,XXXXXXXXX,Consumer,NY,4720 Noble Hills Wynd,10016
+17899,Brooklyn,EE. UU.,XXXXXXXXX,Leila,13944,Joyner,XXXXXXXXX,Consumer,NY,3495 Wishing Landing,11220
+17903,Brooklyn,EE. UU.,XXXXXXXXX,Kessie,16433,Wilkerson,XXXXXXXXX,Consumer,NY,5731 Cinder Horse Court,11218
+17905,New York,EE. UU.,XXXXXXXXX,Alma,16051,Saunders,XXXXXXXXX,Consumer,NY,6002 Emerald Cloud Mountain,10025
+17912,New York,EE. UU.,XXXXXXXXX,Mikayla,19121,Combs,XXXXXXXXX,Consumer,NY,2831 Amber Oak Pathway,10016
+17921,New York,EE. UU.,XXXXXXXXX,Alexa,20516,Mendez,XXXXXXXXX,Consumer,NY,7505 Silent Spring Acres,10027
+17928,Brooklyn,EE. UU.,XXXXXXXXX,Clementine,17457,Mcgowan,XXXXXXXXX,Consumer,NY,4599 Merry Pointe,11236
+17929,South Richmond Hill,EE. UU.,XXXXXXXXX,Shellie,18883,Hale,XXXXXXXXX,Consumer,NY,5311 Honey Parkway,11419
+17939,Brooklyn,EE. UU.,XXXXXXXXX,Jessamine,18996,Barlow,XXXXXXXXX,Consumer,NY,409 Tawny Range,11236
+17945,Buffalo,EE. UU.,XXXXXXXXX,Kevyn,20122,Cole,XXXXXXXXX,Consumer,NY,5104 Bright Lake Hollow,14215
+17965,New York,EE. UU.,XXXXXXXXX,Tamekah,17375,Mayer,XXXXXXXXX,Consumer,NY,1066 Stony Bay,10024
+17968,New York,EE. UU.,XXXXXXXXX,Alexandra,16082,Gamble,XXXXXXXXX,Consumer,NY,9255 Cotton Rabbit Promenade,10023
+17977,Brooklyn,EE. UU.,XXXXXXXXX,Miriam,18643,Fischer,XXXXXXXXX,Consumer,NY,6391 Golden Promenade,11201
+18027,Corona,EE. UU.,XXXXXXXXX,Angela,13801,Salinas,XXXXXXXXX,Consumer,NY,2455 Fallen Common,11368
+18037,Brooklyn,EE. UU.,XXXXXXXXX,Miranda,13580,Sanchez,XXXXXXXXX,Consumer,NY,1096 Cozy Point,11203
+18044,Flushing,EE. UU.,XXXXXXXXX,Ivana,12651,Allen,XXXXXXXXX,Consumer,NY,5364 Heather Quail Court,11354
+18052,Lindenhurst,EE. UU.,XXXXXXXXX,Amity,15078,Whitley,XXXXXXXXX,Consumer,NY,1812 Sunny River Wharf,11757
+18062,Jackson Heights,EE. UU.,XXXXXXXXX,Whilemina,13054,Nash,XXXXXXXXX,Consumer,NY,9193 Heather Beacon Promenade,11372
+18069,Bronx,EE. UU.,XXXXXXXXX,Glenna,14194,Bentley,XXXXXXXXX,Consumer,NY,2515 Burning Boulevard,10466
+18071,Bronx,EE. UU.,XXXXXXXXX,Kendall,14318,Lynn,XXXXXXXXX,Consumer,NY,4171 Colonial Lagoon Close,10461
+18072,Bronx,EE. UU.,XXXXXXXXX,Courtney,13460,Reese,XXXXXXXXX,Consumer,NY,4587 Noble Zephyr Promenade,10466
+18074,Bronx,EE. UU.,XXXXXXXXX,Helen,14688,Stein,XXXXXXXXX,Consumer,NY,1744 Clear Way,10458
+18083,Staten Island,EE. UU.,XXXXXXXXX,Jenna,14079,Harrell,XXXXXXXXX,Consumer,NY,3796 Rustic Autoroute,10306
+18096,Newburgh,EE. UU.,XXXXXXXXX,Ginger,14865,Mathis,XXXXXXXXX,Consumer,NY,4791 Heather Cider Orchard,12550
+6936,Rome,EE. UU.,XXXXXXXXX,Patricia,4550,Smith,XXXXXXXXX,Consumer,NY,5514 Lost Walk,13440
+6959,South Ozone Park,EE. UU.,XXXXXXXXX,Mary,7493,Rodriguez,XXXXXXXXX,Consumer,NY,3033 Tawny Zephyr Cape,11420
+6962,Brentwood,EE. UU.,XXXXXXXXX,Evelyn,7684,Harper,XXXXXXXXX,Consumer,NY,4746 Misty Sky Campus,11717
+6964,Bay Shore,EE. UU.,XXXXXXXXX,Jacob,8227,Smith,XXXXXXXXX,Consumer,NY,5864 Iron Spring Route,11706
+6966,Rochester,EE. UU.,XXXXXXXXX,Betty,8167,Roberts,XXXXXXXXX,Consumer,NY,4255 Silver Gate Vale,14609
+6977,Woodside,EE. UU.,XXXXXXXXX,Mary,9750,Smith,XXXXXXXXX,Consumer,NY,7293 Harvest Valley,11377
+6980,Endicott,EE. UU.,XXXXXXXXX,Diane,9776,Davis,XXXXXXXXX,Consumer,NY,2328 Rustic Elk Abbey,13760
+6990,Bronx,EE. UU.,XXXXXXXXX,Brian,2941,Martinez,XXXXXXXXX,Consumer,NY,3692 Cotton Horse Common,10473
+7001,New York,EE. UU.,XXXXXXXXX,Nathan,12212,Morton,XXXXXXXXX,Consumer,NY,5659 Colonial Rise Pathway,10023
+7015,Brooklyn,EE. UU.,XXXXXXXXX,Mary,4476,Ortiz,XXXXXXXXX,Consumer,NY,3909 Middle Passage,11210
+7021,South Ozone Park,EE. UU.,XXXXXXXXX,Thomas,8496,Wood,XXXXXXXXX,Consumer,NY,384 Dewy Nectar Trace,11420
+7026,Lockport,EE. UU.,XXXXXXXXX,Andrea,4373,Elliott,XXXXXXXXX,Consumer,NY,4542 Sunny Parade,14094
+7056,Brooklyn,EE. UU.,XXXXXXXXX,Kevin,4205,Williams,XXXXXXXXX,Consumer,NY,8033 Heather Fox Ridge,11218
+7066,New York,EE. UU.,XXXXXXXXX,Teresa,7122,Carlson,XXXXXXXXX,Consumer,NY,5182 Noble Prairie Heath,10027
+7083,Brooklyn,EE. UU.,XXXXXXXXX,Karly,18843,Gill,XXXXXXXXX,Consumer,NY,1829 Jagged Gate Forest,11201
+7096,Brooklyn,EE. UU.,XXXXXXXXX,Kyle,9216,Joyce,XXXXXXXXX,Consumer,NY,1017 Quiet Villas,11206
+7168,Far Rockaway,EE. UU.,XXXXXXXXX,Amity,13613,Ross,XXXXXXXXX,Consumer,NY,357 Quiet Rise,11691
+7174,Bronx,EE. UU.,XXXXXXXXX,Richard,1223,Perry,XXXXXXXXX,Consumer,NY,1655 Little Bear Circle,10469
+7191,Bronx,EE. UU.,XXXXXXXXX,Margaret,5287,Wu,XXXXXXXXX,Consumer,NY,6517 Hazy Wagon  Walk,10456
+7193,Jamaica,EE. UU.,XXXXXXXXX,John,10825,Burns,XXXXXXXXX,Consumer,NY,9030 Clear Glade,11435
+7202,Brooklyn,EE. UU.,XXXXXXXXX,Mary,11499,Smith,XXXXXXXXX,Consumer,NY,2638 Blue Rise Hollow,11209
+7206,Newburgh,EE. UU.,XXXXXXXXX,Hannah,1021,Hensley,XXXXXXXXX,Consumer,NY,8721 Sleepy Passage,12550
+7248,Bronx,EE. UU.,XXXXXXXXX,Ria,17971,Tran,XXXXXXXXX,Consumer,NY,3692 Cotton Horse Common,10473
+7250,Brooklyn,EE. UU.,XXXXXXXXX,Rebecca,602,Huff,XXXXXXXXX,Consumer,NY,3640 Easy Shadow Expressway,11236
+15373,South Richmond Hill,EE. UU.,XXXXXXXXX,Mary,8532,Sellers,XXXXXXXXX,Consumer,NY,65 Stony Concession,11419
+15384,Endicott,EE. UU.,XXXXXXXXX,Bruce,11810,Yoder,XXXXXXXXX,Consumer,NY,5578 Old Brook Pike,13760
+15456,Corona,EE. UU.,XXXXXXXXX,Mary,10498,Smith,XXXXXXXXX,Consumer,NY,417 Quiet Grove Ramp,11368
+15461,New York,EE. UU.,XXXXXXXXX,Thomas,1252,Medina,XXXXXXXXX,Consumer,NY,8663 Crystal Bluff Walk,10016
+12872,Far Rockaway,EE. UU.,XXXXXXXXX,Mary,470,Cannon,XXXXXXXXX,Consumer,NY,"9916 Silent Mall ",11691
+12930,Webster,EE. UU.,XXXXXXXXX,Willie,5750,Brown,XXXXXXXXX,Consumer,NY,5226 Dusty Wagon  Towers,14580
+12933,Brooklyn,EE. UU.,XXXXXXXXX,Deborah,4152,Martinez,XXXXXXXXX,Consumer,NY,4644 Honey Pond Quay,11234
+13057,Bronx,EE. UU.,XXXXXXXXX,Iona,19721,Pruitt,XXXXXXXXX,Consumer,NY,3216 Rocky Centre,10466
+13085,Brooklyn,EE. UU.,XXXXXXXXX,Audrey,19693,Barber,XXXXXXXXX,Consumer,NY,1526 Broad Mountain Plaza,11203
+13106,Bronx,EE. UU.,XXXXXXXXX,Quemby,19672,Tyson,XXXXXXXXX,Consumer,NY,7840 Umber Sky Villas,10461
+13118,Bronx,EE. UU.,XXXXXXXXX,Calista,19660,Mcpherson,XXXXXXXXX,Consumer,NY,4587 Noble Zephyr Promenade,10462
+13180,Freeport,EE. UU.,XXXXXXXXX,Eve,19598,Daniels,XXXXXXXXX,Consumer,NY,5463 Rocky Autoroute,11520
+5150,Freeport,EE. UU.,XXXXXXXXX,James,10350,Smith,XXXXXXXXX,Consumer,NY,7253 Old Crescent,11520
+5151,Jamaica,EE. UU.,XXXXXXXXX,Bobby,10261,Bell,XXXXXXXXX,Consumer,NY,4545 Middle Pine Chase,11432
+5166,Brooklyn,EE. UU.,XXXXXXXXX,Mary,5725,Smith,XXXXXXXXX,Consumer,NY,3882 Golden Maze,11219
+5182,Bronx,EE. UU.,XXXXXXXXX,Mary,11381,Gonzalez,XXXXXXXXX,Consumer,NY,5841 Grand End,10469
+5187,Freeport,EE. UU.,XXXXXXXXX,Mary,4754,Santana,XXXXXXXXX,Consumer,NY,5656 Noble Lookout,11520
+5201,New York,EE. UU.,XXXXXXXXX,Mary,5567,Garza,XXXXXXXXX,Consumer,NY,1850 Honey Centre,10031
+5202,Brooklyn,EE. UU.,XXXXXXXXX,Mary,9317,Smith,XXXXXXXXX,Consumer,NY,7274 Middle Wynd,11203
+5219,Bronx,EE. UU.,XXXXXXXXX,Mary,5780,Smith,XXXXXXXXX,Consumer,NY,75 Noble Swale,10460
+5250,Massapequa,EE. UU.,XXXXXXXXX,Mary,6465,Smith,XXXXXXXXX,Consumer,NY,2544 Burning Sky Key,11758
+5256,Brooklyn,EE. UU.,XXXXXXXXX,Mary,11059,Daniels,XXXXXXXXX,Consumer,NY,9036 Easy Embers Point,11221
+5263,South Richmond Hill,EE. UU.,XXXXXXXXX,Shirley,4783,Smith,XXXXXXXXX,Consumer,NY,8335 Little Rise Downs,11419
+7258,Brooklyn,EE. UU.,XXXXXXXXX,Yael,16044,Chapman,XXXXXXXXX,Consumer,NY,1014 Colonial Cider Terrace,11212
+7272,Buffalo,EE. UU.,XXXXXXXXX,Jael,15619,Wilson,XXXXXXXXX,Consumer,NY,7639 Silent Valley,14221
+7300,Bronx,EE. UU.,XXXXXXXXX,Nancy,120,Smith,XXXXXXXXX,Consumer,NY,7840 Umber Sky Villas,10461
+7318,Ithaca,EE. UU.,XXXXXXXXX,Mary,4149,Smith,XXXXXXXXX,Consumer,NY,8428 Honey Freeway,14850
+7321,New York,EE. UU.,XXXXXXXXX,Mary,11594,Smith,XXXXXXXXX,Consumer,NY,5257 Umber Field,10128
+7338,Brooklyn,EE. UU.,XXXXXXXXX,Raymond,5851,Smith,XXXXXXXXX,Consumer,NY,4771 Dewy Timber Lane,11206
+7375,Brooklyn,EE. UU.,XXXXXXXXX,Kendall,14161,Harrison,XXXXXXXXX,Consumer,NY,1230 Crystal Lookout,11208
+7388,Buffalo,EE. UU.,XXXXXXXXX,Michael,4590,Raymond,XXXXXXXXX,Consumer,NY,6590 Dewy Apple Gate,14221
+7413,Freeport,EE. UU.,XXXXXXXXX,Henry,4704,James,XXXXXXXXX,Consumer,NY,8344 Misty Gate Acres,11520
+7418,Bronx,EE. UU.,XXXXXXXXX,Eric,4640,Landry,XXXXXXXXX,Consumer,NY,4896 Easy Landing,10472
+7426,Troy,EE. UU.,XXXXXXXXX,Joyce,3521,Callahan,XXXXXXXXX,Consumer,NY,4075 Silver Hills Heights,12180
+7428,New York,EE. UU.,XXXXXXXXX,Mary,1126,Thompson,XXXXXXXXX,Consumer,NY,3309 Grand Circuit,10002
+7450,Elmhurst,EE. UU.,XXXXXXXXX,Linda,10881,Smith,XXXXXXXXX,Consumer,NY,6245 Iron Cloud Farms,11373
+7464,South Ozone Park,EE. UU.,XXXXXXXXX,Roger,212,Johnson,XXXXXXXXX,Consumer,NY,5723 Stony Valley,11420
+18121,Brooklyn,EE. UU.,XXXXXXXXX,Patrick,3278,Anderson,XXXXXXXXX,Consumer,NY,5368 Green Front,11203
+15491,New York,EE. UU.,XXXXXXXXX,Doris,4091,Smith,XXXXXXXXX,Consumer,NY,2831 Amber Oak Pathway,10016
+15503,Brooklyn,EE. UU.,XXXXXXXXX,Jacqueline,11113,Smith,XXXXXXXXX,Consumer,NY,1564 Grand Bear Green,11208
+15586,Flushing,EE. UU.,XXXXXXXXX,Mary,3419,Smith,XXXXXXXXX,Consumer,NY,5103 Burning Embers Green,11355
+15716,Bronx,EE. UU.,XXXXXXXXX,Deborah,8512,Gonzalez,XXXXXXXXX,Consumer,NY,8314 Fallen Leaf Diversion,10468
+15718,Ithaca,EE. UU.,XXXXXXXXX,Mary,4507,Smith,XXXXXXXXX,Consumer,NY,8314 Burning Circuit,14850
+15729,Brooklyn,EE. UU.,XXXXXXXXX,Donna,7087,Smith,XXXXXXXXX,Consumer,NY,7105 Tawny Rise,11209
+15756,Brooklyn,EE. UU.,XXXXXXXXX,James,5462,Greene,XXXXXXXXX,Consumer,NY,7971 Wishing Corners,11211
+15762,Jackson Heights,EE. UU.,XXXXXXXXX,Mary,10315,Smith,XXXXXXXXX,Consumer,NY,4074 Burning River Corners,11372
+15793,Buffalo,EE. UU.,XXXXXXXXX,Beverly,9579,White,XXXXXXXXX,Consumer,NY,355 Dusty Grounds,14221
+7695,Brooklyn,EE. UU.,XXXXXXXXX,Charles,4964,Martinez,XXXXXXXXX,Consumer,NY,8927 Merry Elk Centre,11216
+7717,Brooklyn,EE. UU.,XXXXXXXXX,Stephanie,4050,Smith,XXXXXXXXX,Consumer,NY,2455 Fallen Common,11237
+7719,New York,EE. UU.,XXXXXXXXX,Mary,11167,Hinton,XXXXXXXXX,Consumer,NY,7516 Quiet Village,10003
+7723,New York,EE. UU.,XXXXXXXXX,Roger,8510,Smith,XXXXXXXXX,Consumer,NY,1744 Shady Dale,10033
+7728,South Ozone Park,EE. UU.,XXXXXXXXX,Mary,3912,Pace,XXXXXXXXX,Consumer,NY,5616 Little Lagoon Street,11420
+7733,South Richmond Hill,EE. UU.,XXXXXXXXX,Paul,8754,Sanchez,XXXXXXXXX,Consumer,NY,7595 Cotton Log Row,11419
+7738,Bronx,EE. UU.,XXXXXXXXX,Joshua,108,Smith,XXXXXXXXX,Consumer,NY,4587 Noble Zephyr Promenade,10462
+7750,New York,EE. UU.,XXXXXXXXX,Mary,3646,Smith,XXXXXXXXX,Consumer,NY,9255 Cotton Rabbit Promenade,10023
+7773,Bronx,EE. UU.,XXXXXXXXX,Lisandra,18903,Figueroa,XXXXXXXXX,Consumer,NY,8212 Sleepy Parkway,10463
+7776,Flushing,EE. UU.,XXXXXXXXX,Diana,18051,Reed,XXXXXXXXX,Consumer,NY,7086 Misty Rise Expressway,11354
+7780,Brooklyn,EE. UU.,XXXXXXXXX,Emma,16616,Hinton,XXXXXXXXX,Consumer,NY,5795 Lazy View Concession,11220
+7783,New York,EE. UU.,XXXXXXXXX,Fatima,15755,Benson,XXXXXXXXX,Consumer,NY,2275 Rustic Impasse,10016
+7784,New York,EE. UU.,XXXXXXXXX,Alma,15742,Medina,XXXXXXXXX,Consumer,NY,8289 Foggy Meadow,10023
+7789,Brooklyn,EE. UU.,XXXXXXXXX,Lee,20752,Glover,XXXXXXXXX,Consumer,NY,6818 Middle Zephyr Forest,11238
+7803,Bronx,EE. UU.,XXXXXXXXX,Amelia,18329,Witt,XXXXXXXXX,Consumer,NY,8284 Fallen Heath,10472
+7806,Brooklyn,EE. UU.,XXXXXXXXX,Carol,3031,Smith,XXXXXXXXX,Consumer,NY,4166 Stony Berry Alley,11214
+7810,Bronx,EE. UU.,XXXXXXXXX,David,841,Smith,XXXXXXXXX,Consumer,NY,3760 Rocky Village,10463
+7817,Buffalo,EE. UU.,XXXXXXXXX,Mary,6202,Williams,XXXXXXXXX,Consumer,NY,5338 Little Wood,14221
+7821,Tonawanda,EE. UU.,XXXXXXXXX,Amena,15337,Bender,XXXXXXXXX,Consumer,NY,6829 Umber Isle,14150
+7830,Huntington Station,EE. UU.,XXXXXXXXX,Daniel,11368,Johnson,XXXXXXXXX,Consumer,NY,5282 Burning Port,11746
+7847,Brooklyn,EE. UU.,XXXXXXXXX,Anjolie,19993,Dodson,XXXXXXXXX,Consumer,NY,3043 Lost Cider Avenue,11213
+7853,Brooklyn,EE. UU.,XXXXXXXXX,Joseph,5650,Hutchinson,XXXXXXXXX,Consumer,NY,8263 Rustic Common,11230
+7861,Buffalo,EE. UU.,XXXXXXXXX,Donald,10516,Lyons,XXXXXXXXX,Consumer,NY,7353 Colonial Embers Lane,14215
+7865,Brooklyn,EE. UU.,XXXXXXXXX,Mary,9200,Orozco,XXXXXXXXX,Consumer,NY,4393 Sleepy Sky Bend,11219
+7872,Brooklyn,EE. UU.,XXXXXXXXX,Mary,9036,Chase,XXXXXXXXX,Consumer,NY,3446 Hazy Plaza,11221
+7874,Bronx,EE. UU.,XXXXXXXXX,Aaron,10293,Jordan,XXXXXXXXX,Consumer,NY,197 Quaking Trail,10469
+7893,Buffalo,EE. UU.,XXXXXXXXX,Mary,6610,Smith,XXXXXXXXX,Consumer,NY,8443 Merry Hickory Loop,14215
+7911,Yonkers,EE. UU.,XXXXXXXXX,Stephen,8635,Smith,XXXXXXXXX,Consumer,NY,6552 Noble Downs,10701
+7915,Brooklyn,EE. UU.,XXXXXXXXX,John,7686,Smith,XXXXXXXXX,Consumer,NY,6876 Misty Treasure Village,11201
+7916,Brooklyn,EE. UU.,XXXXXXXXX,Marie,4940,Snyder,XXXXXXXXX,Consumer,NY,6534 Red Carrefour,11221
